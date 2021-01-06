@@ -24,7 +24,7 @@
     "chprogram": "Nenhuma programação definida."
   },
   {
-    "chlink": "https://player.twitch.tv/?channel=postinho&parent=hizenstv",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/hizens2.html",
     "chsite": "https://github.com/ButterflyAquariumStudios/hizenstv",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -32,7 +32,19 @@
     "chname": "Hizens TV2",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/hizenstvlogo.png",
     "chid": "0",
-    "chdesc": "Hizens TV2 é o canal secundário da Hizens, com conteúdo geral. Transmitido direto da Twitch.",
+    "chdesc": "Hizens TV2 é o canal secundário da Hizens, com conteúdo geral. Transmitido da Cine Livre IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/globo.html",
+    "chsite": "https://globo.com",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Globo",
+    "chimg": "nosite",
+    "chid": "0",
+    "chdesc": "Globo é uma emissora brasileira com canal aberto. Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -45,6 +57,18 @@
     "chimg": "https://www.sbt.com.br/assets/images/logo-sbt.png",
     "chid": "0",
     "chdesc": "SBT é uma emissora brasileira com canal aberto. Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/recordtv.html",
+    "chsite": "https://r7.com",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Record TV",
+    "chimg": "https://i.imgur.com/Wfq5okf.png",
+    "chid": "0",
+    "chdesc": "Record é uma emissora brasileira com canal aberto. Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -72,6 +96,18 @@
     "chprogram": "Nenhuma programação definida."
   },
   {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redetv.html",
+    "chsite": "nosite",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Pampa RedeTV!",
+    "chimg": "https://i.imgur.com/xLClDfk.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
     "chlink": "https://www.youtube.com/embed/VQRH6xM6T2o",
     "chsite": "https://noticias.r7.com/record-news",
     "chcategory": "Noticias",
@@ -93,6 +129,66 @@
     "chimg": "https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png",
     "chid": "0",
     "chdesc": "TV Brasil é um canal aberto brasileiro. Transmitido direto da TV Brasil Web.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cnn.html",
+    "chsite": "nosite",
+    "chcategory": "Noticias",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "CNN",
+    "chimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/bonstempostv.html",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Bons Tempos TV",
+    "chimg": "nosite",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redebrasil.html",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Rede Brasil",
+    "chimg": "https://i.imgur.com/ZgnRZ47.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redehtv.html",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Rede HTV",
+    "chimg": "nosite",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/1hdmusic.html",
+    "chsite": "nosite",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "1HD Music",
+    "chimg": "https://image.winudf.com/v2/image/cnUuYTFoZC50dl9pY29uXzE1MTM0NTA4MzVfMDIx/icon.png?w=170&fakeurl=1",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV com player da Hizens.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -192,6 +288,42 @@
     "chprogram": "Nenhuma programação definida."
   },
   {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/retromusic.html",
+    "chsite": "nosite",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "RetroMusic",
+    "chimg": "nosite",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/rocktv.html",
+    "chsite": "nosite",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "RockTV",
+    "chimg": "nosite",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/allsportstv.html",
+    "chsite": "nosite",
+    "chcategory": "Esportes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "All Sports HDTV",
+    "chimg": "https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
     "chlink": "https://player.twitch.tv/?channel=UFC&parent=hizentv",
     "chsite": "https://www.twitch.tv/ufc/videos",
     "chcategory": "Esportes",
@@ -252,6 +384,30 @@
     "chprogram": "Nenhuma programação definida."
   },
   {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/ctv.html",
+    "chsite": "nosite",
+    "chcategory": "Educação",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "CTV",
+    "chimg": "nosite",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/animetv.html",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Hizens Anime",
+    "chimg": "nosite",
+    "chid": "0",
+    "chdesc": "Transmissão original da AnimeTV. Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
     "chlink": "https://www.youtube.com/embed/5pIvLWHWuPQ",
     "chsite": "https://www.youtube.com/channel/UCCb3DX0GO9f0EFizD5PT7bQ",
     "chcategory": "Infantil",
@@ -276,6 +432,18 @@
     "chprogram": "Nenhuma programação definida."
   },
   {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/retrocartoon.html",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Retrô Cartoon",
+    "chimg": "https://i.imgur.com/mgHLYAn.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
     "chlink": "https://www.youtube.com/embed/3DZEFZR4bVQ",
     "chsite": "https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA",
     "chcategory": "Infantil",
@@ -285,6 +453,18 @@
     "chimg": "https://yt3.ggpht.com/ytc/AAUvwnhPQa9xalps0cdNedhhzDp2sO_TYjvbFCvQK_22=s900-c-k-c0x00ffffff-no-rj",
     "chid": "0",
     "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/tvmanchete.html",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "TV Manchete",
+    "chimg": "https://i.imgur.com/dQRl59I.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -312,15 +492,15 @@
     "chprogram": "Nenhuma programação definida."
   },
   {
-    "chlink": "https://player.twitch.tv/?channel=Chel_channel&parent=hizentv",
-    "chsite": "https://www.twitch.tv/chel_channel",
-    "chcategory": "Filmes",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/vmtv.html",
+    "chsite": "nosite",
+    "chcategory": "Series",
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
-    "chname": "Chel Channel",
-    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/db3a441b-9c13-4c86-9b1c-96840adae040-profile_image-300x300.png",
+    "chname": "VMTV",
+    "chimg": "https://i.imgur.com/w8c6u2S.png",
     "chid": "0",
-    "chdesc": "Transmitido direto do Twitch.",
+    "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -333,6 +513,114 @@
     "chimg": "https://s2.glbimg.com/YKv2ncmrfH68q-LaVkx93p1-lFE=/0x0:300x400/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2012/04/11/simpsons2.jpg",
     "chid": "0",
     "chdesc": "Transmitido direto do Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/summertv.html",
+    "chsite": "nosite",
+    "chcategory": "Series",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Summer TV",
+    "chimg": "https://i.imgur.com/izBuXev.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cinelivre.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Hizens Filmes",
+    "chimg": "nosite",
+    "chid": "0",
+    "chdesc": "Transmissão oficial do Cine Livre. Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cinetrianontv.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Cine Trianon TV",
+    "chimg": "nosite",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/istv.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "ISTV",
+    "chimg": "https://i.imgur.com/TuOnA8q.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/kronostv.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "KronosTV",
+    "chimg": "https://i.imgur.com/IhN2sZV.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/vintagetv.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Vintage TV",
+    "chimg": "https://i.imgur.com/a8e5Fti.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/latinasat.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "LatinaSat",
+    "chimg": "https://i.imgur.com/GasHQCF.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=Chel_channel&parent=hizentv",
+    "chsite": "https://www.twitch.tv/chel_channel",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Chel Channel",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/db3a441b-9c13-4c86-9b1c-96840adae040-profile_image-300x300.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/pptv.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "PPTV Channel",
+    "chimg": "https://i.imgur.com/Hkq6bYu.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
   {
