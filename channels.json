@@ -6,7 +6,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "Guia Rápido",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/hizenstvlogo.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV.png",
     "chid": "0",
     "chdesc": "O Guia instrui você a usar o aplicativo.",
     "chprogram": ""
@@ -18,7 +18,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "Hizens TV",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/hizenstvlogo.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV.png",
     "chid": "0",
     "chdesc": "Hizens TV é o canal oficial da Hizens, com conteúdo geral. Transmitido direto da Twitch.",
     "chprogram": "Nenhuma programação definida."
@@ -30,33 +30,9 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "Hizens TV2",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/hizenstvlogo.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV2.png",
     "chid": "0",
     "chdesc": "Hizens TV2 é o canal secundário da Hizens, com conteúdo geral. Transmitido da Cine Livre IPTV.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/globo.html",
-    "chsite": "https://globo.com",
-    "chcategory": "Geral",
-    "chsocial": "nosocial",
-    "chyoutube": "https://youtube.com",
-    "chname": "Globo",
-    "chimg": "nosite",
-    "chid": "0",
-    "chdesc": "Globo é uma emissora brasileira com canal aberto. Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://www.youtube.com/embed/ABVQXgr2LW4",
-    "chsite": "https://sbt.com.br",
-    "chcategory": "Geral",
-    "chsocial": "nosocial",
-    "chyoutube": "https://youtube.com",
-    "chname": "SBT",
-    "chimg": "https://www.sbt.com.br/assets/images/logo-sbt.png",
-    "chid": "0",
-    "chdesc": "SBT é uma emissora brasileira com canal aberto. Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -66,9 +42,21 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "Record TV",
-    "chimg": "https://i.imgur.com/Wfq5okf.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RecordTV.png",
     "chid": "0",
     "chdesc": "Record é uma emissora brasileira com canal aberto. Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/ABVQXgr2LW4",
+    "chsite": "https://sbt.com.br",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "SBT",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SBT.png",
+    "chid": "0",
+    "chdesc": "SBT é uma emissora brasileira com canal aberto. Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -78,7 +66,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "TV Aparecida",
-    "chimg": "https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVAparecida.png",
     "chid": "0",
     "chdesc": "TV Aparecida é um canal religioso com conteúdos para todas as idades. Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
@@ -90,7 +78,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "TV Cultura",
-    "chimg": "https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVCultura.png",
     "chid": "0",
     "chdesc": "TV Cultura é um canal aberto clássico brasileiro. Transmitido direto do Dailymotion/TV Cultura.",
     "chprogram": "Nenhuma programação definida."
@@ -102,7 +90,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "TV Pampa RedeTV!",
-    "chimg": "https://i.imgur.com/xLClDfk.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVPampaRedeTV.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -114,7 +102,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "Record News",
-    "chimg": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RecordNews.png",
     "chid": "0",
     "chdesc": "Record News é um canal aberto brasileiro focado em noticias. Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
@@ -126,7 +114,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "TV Brasil",
-    "chimg": "https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVBrasil.png",
     "chid": "0",
     "chdesc": "TV Brasil é um canal aberto brasileiro. Transmitido direto da TV Brasil Web.",
     "chprogram": "Nenhuma programação definida."
@@ -138,7 +126,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "CNN",
-    "chimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CNN.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -150,7 +138,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "Bons Tempos TV",
-    "chimg": "nosite",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/BonsTemposTV.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -162,7 +150,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "Rede Brasil",
-    "chimg": "https://i.imgur.com/ZgnRZ47.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RedeBrasil.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -174,21 +162,9 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "Rede HTV",
-    "chimg": "nosite",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RedeHTV.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/1hdmusic.html",
-    "chsite": "nosite",
-    "chcategory": "Musica",
-    "chsocial": "nosocial",
-    "chyoutube": "https://youtube.com",
-    "chname": "1HD Music",
-    "chimg": "https://image.winudf.com/v2/image/cnUuYTFoZC50dl9pY29uXzE1MTM0NTA4MzVfMDIx/icon.png?w=170&fakeurl=1",
-    "chid": "0",
-    "chdesc": "Transmissão IPTV com player da Hizens.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -198,7 +174,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/user/AllTrapNation",
     "chname": "Trap Nation",
-    "chimg": "https://pbs.twimg.com/profile_images/1181300644834988032/qqTFYoNX_400x400.jpg",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TrapNation.png",
     "chid": "0",
     "chdesc": "Trap Nation é um canal americano de musica do YouTube. É o principal canal da The Nation Network. Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
@@ -210,7 +186,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "ChilledCow Lo-Fi Hip-Hop",
-    "chimg": "https://i1.sndcdn.com/avatars-000407591712-yoawv2-t500x500.jpg",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ChilledCow.png",
     "chid": "0",
     "chdesc": "ChilledCow é um canal de musica do youtube. Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
@@ -222,7 +198,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "NCS Gaming Radio",
-    "chimg": "https://audiobyray.com/wp-content/uploads/2018/10/NCS-NoCopyrightSounds-Record-Label-AudiobyRay-Listing.jpg",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/NCS.png",
     "chid": "0",
     "chdesc": "NCS é um canal de musica do YouTube. É um canal muito famoso por distribuir musicas sem direitos autorais para videos. Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
@@ -234,7 +210,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Silk Music - Deep House",
-    "chimg": "https://yt3.ggpht.com/a-/AOh14GjY4R6G2JnknGRq4J3C5hO7GGUlPEOGJ-Swwg=s68-c-k-c0x00ffffff-no-rj-mo",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SilkMusic.png",
     "chid": "0",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
@@ -246,7 +222,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "InsomniacTV",
-    "chimg": "https://pbs.twimg.com/profile_images/948694424141246464/ueEAU_CY.jpg",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Insomniac.png",
     "chid": "0",
     "chdesc": "Transmitido direto da Twitch.",
     "chprogram": "Nenhuma programação definida."
@@ -258,7 +234,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "RelaxBeats",
-    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/relaxbeats-profile_image-76acee755ecb616f-300x300.jpeg",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RelaxBeats.png",
     "chid": "0",
     "chdesc": "Transmitido direto da Twitch.",
     "chprogram": "Nenhuma programação definida."
@@ -270,7 +246,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Monstercat",
-    "chimg": "https://assets.monstercat.com/essentials/logos/monstercat_logo_cat_normal.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Monstercat.png",
     "chid": "0",
     "chdesc": "Transmitido direto da Twitch.",
     "chprogram": "Nenhuma programação definida."
@@ -282,33 +258,9 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "KpopTV 24/7",
-    "chimg": "nosite",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/kpop.png",
     "chid": "0",
     "chdesc": "Transmitido direto da Twitch.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/retromusic.html",
-    "chsite": "nosite",
-    "chcategory": "Musica",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "RetroMusic",
-    "chimg": "nosite",
-    "chid": "0",
-    "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/rocktv.html",
-    "chsite": "nosite",
-    "chcategory": "Musica",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "RockTV",
-    "chimg": "nosite",
-    "chid": "0",
-    "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -318,7 +270,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "All Sports HDTV",
-    "chimg": "https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/AllSportsTV.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -330,21 +282,9 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "UFC",
-    "chimg": "https://lh3.googleusercontent.com/stUyBEPOdOY1r8Y0LbRW-UGtA3OHtZ1KcNH0MzkF3BOIcOQt21XhHRhTS5I9yCWZ-fPEUunxcD6W8wGteMBPLorG",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/UFC.png",
     "chid": "0",
     "chdesc": "Transmitido direto da Twitch.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://www.youtube.com/embed/0Y-IRcUJi6o",
-    "chsite": "https://www.youtube.com/user/beinsports",
-    "chcategory": "Esportes",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "beIN Sports",
-    "chimg": "https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png",
-    "chid": "0",
-    "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -354,7 +294,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "FailArmy",
-    "chimg": "https://yt3.ggpht.com/ytc/AAUvwnjL7W6xF6OBehgwMMMliUgPhtok7ainUOsBhapa5Q=s900-c-k-c0x00ffffff-no-rj",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/FailArmy.png",
     "chid": "0",
     "chdesc": "Transmitido direto da Twitch.",
     "chprogram": "Nenhuma programação definida."
@@ -366,7 +306,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Euronews",
-    "chimg": "https://yt3.ggpht.com/ytc/AAUvwngxE0l-vGHBafT-fP7WfCq_Xo7QfDLATRspf0agKA=s900-c-k-c0x00ffffff-no-rj",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Euronews.png",
     "chid": "0",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
@@ -378,7 +318,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Euronews Internacional",
-    "chimg": "https://yt3.ggpht.com/ytc/AAUvwngxE0l-vGHBafT-fP7WfCq_Xo7QfDLATRspf0agKA=s900-c-k-c0x00ffffff-no-rj",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Euronews.png",
     "chid": "0",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
@@ -390,7 +330,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "CTV",
-    "chimg": "nosite",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CTV.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -402,21 +342,9 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Hizens Anime",
-    "chimg": "nosite",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensAnime.png",
     "chid": "0",
     "chdesc": "Transmissão original da AnimeTV. Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://www.youtube.com/embed/5pIvLWHWuPQ",
-    "chsite": "https://www.youtube.com/channel/UCCb3DX0GO9f0EFizD5PT7bQ",
-    "chcategory": "Infantil",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "Tom e Jerry - Melhores Momentos",
-    "chimg": "https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png",
-    "chid": "0",
-    "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -426,7 +354,67 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Cartoon Network",
-    "chimg": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CN.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/5pIvLWHWuPQ",
+    "chsite": "https://www.youtube.com/channel/UCCb3DX0GO9f0EFizD5PT7bQ",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Tom e Jerry - Melhores Momentos",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TomJerry.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/f5Th0QulmcE",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Talking Tom",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/ZuuMDHa2gT4",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Peppa Pig",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/wUf3JRP_4vM",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "PJ Masks",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/7x7YbTLH-4s",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Natal com Bob Esponja",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "0",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
@@ -438,7 +426,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Retrô Cartoon",
-    "chimg": "https://i.imgur.com/mgHLYAn.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RetroCartoon.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -450,7 +438,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "BabyBus Channel",
-    "chimg": "https://yt3.ggpht.com/ytc/AAUvwnhPQa9xalps0cdNedhhzDp2sO_TYjvbFCvQK_22=s900-c-k-c0x00ffffff-no-rj",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Babybus.png",
     "chid": "0",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
@@ -462,21 +450,9 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "TV Manchete",
-    "chimg": "https://i.imgur.com/dQRl59I.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVManchete.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://player.twitch.tv/?channel=Animationtv21&parent=hizentv",
-    "chsite": "nosite",
-    "chcategory": "Infantil",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "AnimationTV21",
-    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/76e5faf4-f140-4972-b00a-35d413bfbd54-profile_image-300x300.png",
-    "chid": "0",
-    "chdesc": "Transmitido direto do Twitch.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -486,7 +462,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Chel Channel",
-    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/db3a441b-9c13-4c86-9b1c-96840adae040-profile_image-300x300.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ChelChannel.png",
     "chid": "0",
     "chdesc": "Transmitido direto do Twitch.",
     "chprogram": "Nenhuma programação definida."
@@ -498,7 +474,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "VMTV",
-    "chimg": "https://i.imgur.com/w8c6u2S.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/VM.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -510,7 +486,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Os Simpsons 24/7",
-    "chimg": "https://s2.glbimg.com/YKv2ncmrfH68q-LaVkx93p1-lFE=/0x0:300x400/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2012/04/11/simpsons2.jpg",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TheSimpsons.png",
     "chid": "0",
     "chdesc": "Transmitido direto do Twitch.",
     "chprogram": "Nenhuma programação definida."
@@ -522,7 +498,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Summer TV",
-    "chimg": "https://i.imgur.com/izBuXev.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SummerTV.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -534,7 +510,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Hizens Filmes",
-    "chimg": "nosite",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensFilmes.png",
     "chid": "0",
     "chdesc": "Transmissão oficial do Cine Livre. Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -546,7 +522,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Cine Trianon TV",
-    "chimg": "nosite",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -558,7 +534,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "ISTV",
-    "chimg": "https://i.imgur.com/TuOnA8q.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -570,7 +546,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "KronosTV",
-    "chimg": "https://i.imgur.com/IhN2sZV.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -582,7 +558,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Vintage TV",
-    "chimg": "https://i.imgur.com/a8e5Fti.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -594,7 +570,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "LatinaSat",
-    "chimg": "https://i.imgur.com/GasHQCF.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -606,7 +582,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Chel Channel",
-    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/db3a441b-9c13-4c86-9b1c-96840adae040-profile_image-300x300.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "0",
     "chdesc": "Transmitido direto do Twitch.",
     "chprogram": "Nenhuma programação definida."
@@ -618,7 +594,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "PPTV Channel",
-    "chimg": "https://i.imgur.com/Hkq6bYu.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -630,7 +606,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Alanzoka",
-    "chimg": "https://pbs.twimg.com/profile_images/944712346500587522/duOz-D8s.jpg",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Alanzoka.png",
     "chid": "0",
     "chdesc": "Transmitido direto do Twitch.",
     "chprogram": "Nenhuma programação definida."
@@ -642,7 +618,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Cellbit",
-    "chimg": "https://yt3.ggpht.com/ytc/AAUvwnjfE77coETjjQcewYRpGVnv0ZEaOKmN_zX8PEvWig=s900-c-k-c0x00ffffff-no-rj",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Cellbit.png",
     "chid": "0",
     "chdesc": "Transmitido direto do Twitch.",
     "chprogram": "Nenhuma programação definida."
@@ -654,7 +630,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "AlbinhoGM",
-    "chimg": "nosite",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Albinho.png",
     "chid": "0",
     "chdesc": "AlbinhoGM é um jogador tranquilo de PS4, apenas se divertindo na stream. Parceiro oficial. Transmitido direto do Twitch.",
     "chprogram": "Nenhuma programação definida."
