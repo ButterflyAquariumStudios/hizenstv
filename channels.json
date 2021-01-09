@@ -384,30 +384,6 @@
     "chprogram": "Nenhuma programação definida."
   },
   {
-    "chlink": "https://www.youtube.com/embed/ZuuMDHa2gT4",
-    "chsite": "nosite",
-    "chcategory": "Infantil",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "Peppa Pig",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
-    "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://www.youtube.com/embed/wUf3JRP_4vM",
-    "chsite": "nosite",
-    "chcategory": "Infantil",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "PJ Masks",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
-    "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
     "chlink": "https://www.youtube.com/embed/7x7YbTLH-4s",
     "chsite": "nosite",
     "chcategory": "Infantil",
@@ -439,6 +415,18 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "BabyBus Channel",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Babybus.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/FkQjSxSCzvw",
+    "chsite": "https://www.youtube.com/channel/UC5nrB6LSxXhowk7i2rTgNng",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Canal BabyFirst",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "0",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
