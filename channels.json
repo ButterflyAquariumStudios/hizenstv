@@ -2,25 +2,25 @@
   {
     "chlink": "https://about.black/",
     "chsite": "https://github.com/ButterflyAquariumStudios/hizenstv",
-    "chcategory": "Guia",
+    "chcategory": "Hizens TV",
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "Guia Rápido",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV.png",
     "chid": "0",
-    "chdesc": "O Guia instrui você a usar o aplicativo.",
+    "chdesc": "Há uma lista de canais abaixo esperando por você. Escolha um, toque, e se divirta.\n\nAlguns canais precisam que você aperte play ou ligue o som, não se incomode com isso.",
     "chprogram": ""
   },
   {
-    "chlink": "https://player.twitch.tv/?channel=postinho&parent=hizenstv",
+    "chlink": "https://about.black/",
     "chsite": "https://github.com/ButterflyAquariumStudios/hizenstv",
-    "chcategory": "Geral",
+    "chcategory": "Hizens TV",
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "Hizens TV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV.png",
     "chid": "0",
-    "chdesc": "Hizens TV é o canal oficial da Hizens, com conteúdo geral. Transmitido direto da Twitch.",
+    "chdesc": "Hizens TV é o canal oficial da Hizens, com conteúdo variado.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -32,7 +32,7 @@
     "chname": "Hizens TV2",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV2.png",
     "chid": "0",
-    "chdesc": "Hizens TV2 é o canal secundário da Hizens, com conteúdo geral. Transmitido da Cine Livre IPTV.",
+    "chdesc": "Hizens TV2 é o canal secundário da Hizens. Transmissão da Cine Livre IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
   {
@@ -96,18 +96,6 @@
     "chprogram": "Nenhuma programação definida."
   },
   {
-    "chlink": "https://www.youtube.com/embed/VQRH6xM6T2o",
-    "chsite": "https://noticias.r7.com/record-news",
-    "chcategory": "Noticias",
-    "chsocial": "nosocial",
-    "chyoutube": "https://youtube.com",
-    "chname": "Record News",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RecordNews.png",
-    "chid": "0",
-    "chdesc": "Record News é um canal aberto brasileiro focado em noticias. Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
     "chlink": "https://video.rnp.br:443/portal/embed-channel?idItem=39285&autostart=true",
     "chsite": "https://tvbrasil.ebc.com.br/",
     "chcategory": "Geral",
@@ -120,6 +108,18 @@
     "chprogram": "Nenhuma programação definida."
   },
   {
+    "chlink": "https://www.youtube.com/embed/VQRH6xM6T2o",
+    "chsite": "https://noticias.r7.com/record-news",
+    "chcategory": "Noticias",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Record News",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RecordNews.png",
+    "chid": "0",
+    "chdesc": "Record News é um canal aberto brasileiro focado em noticias. Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
     "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cnn.html",
     "chsite": "nosite",
     "chcategory": "Noticias",
@@ -127,6 +127,54 @@
     "chyoutube": "https://youtube.com",
     "chname": "CNN",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CNN.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/VOw7bts_rGQ",
+    "chsite": "https://www.youtube.com/user/euronewspt",
+    "chcategory": "Noticias",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Euronews",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Euronews.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/JbKgQhFlMdU",
+    "chsite": "https://www.youtube.com/user/euronewspt",
+    "chcategory": "Noticias",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Euronews Internacional",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Euronews.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/istv.html",
+    "chsite": "nosite",
+    "chcategory": "Educação",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "ISTV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/ctv.html",
+    "chsite": "nosite",
+    "chcategory": "Educação",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "CTV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CTV.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -151,6 +199,18 @@
     "chyoutube": "https://youtube.com",
     "chname": "Rede Brasil",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RedeBrasil.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/summertv.html",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Summer TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SummerTV.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
@@ -300,42 +360,6 @@
     "chprogram": "Nenhuma programação definida."
   },
   {
-    "chlink": "https://www.youtube.com/embed/VOw7bts_rGQ",
-    "chsite": "https://www.youtube.com/user/euronewspt",
-    "chcategory": "Noticias",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "Euronews",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Euronews.png",
-    "chid": "0",
-    "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://www.youtube.com/embed/JbKgQhFlMdU",
-    "chsite": "https://www.youtube.com/user/euronewspt",
-    "chcategory": "Noticias",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "Euronews Internacional",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Euronews.png",
-    "chid": "0",
-    "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/ctv.html",
-    "chsite": "nosite",
-    "chcategory": "Educação",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "CTV",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CTV.png",
-    "chid": "0",
-    "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
     "chlink": "https://butsoccer.xyz/hizenstv/player/chs/animetv.html",
     "chsite": "nosite",
     "chcategory": "Infantil",
@@ -480,18 +504,6 @@
     "chprogram": "Nenhuma programação definida."
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/summertv.html",
-    "chsite": "nosite",
-    "chcategory": "Series",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "Summer TV",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SummerTV.png",
-    "chid": "0",
-    "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
     "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cinelivre.html",
     "chsite": "nosite",
     "chcategory": "Filmes",
@@ -510,18 +522,6 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Cine Trianon TV",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
-    "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/istv.html",
-    "chsite": "nosite",
-    "chcategory": "Filmes",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "ISTV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "0",
     "chdesc": "Transmissão IPTV.",
