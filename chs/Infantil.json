@@ -7,7 +7,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Hizens Anime",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensAnime.png",
-    "chid": "0",
+    "chid": "120",
     "chdesc": "Transmissão original da AnimeTV. Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -19,7 +19,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Cartoon Network",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CN.png",
-    "chid": "0",
+    "chid": "121",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -31,7 +31,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Tom e Jerry - Melhores Momentos",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TomJerry.png",
-    "chid": "0",
+    "chid": "122",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -43,7 +43,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Talking Tom",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
+    "chid": "123",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -55,7 +55,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Natal com Bob Esponja",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
+    "chid": "124",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -67,7 +67,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Retrô Cartoon",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RetroCartoon.png",
-    "chid": "0",
+    "chid": "125",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -79,7 +79,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "BabyBus Channel",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Babybus.png",
-    "chid": "0",
+    "chid": "126",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -91,7 +91,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Canal BabyFirst",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
+    "chid": "127",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -103,7 +103,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "TV Manchete",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVManchete.png",
-    "chid": "0",
+    "chid": "128",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   }

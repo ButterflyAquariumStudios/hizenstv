@@ -7,7 +7,7 @@
     "chyoutube": "https://youtube.com",
     "chname": "Bons Tempos TV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/BonsTemposTV.png",
-    "chid": "0",
+    "chid": "50",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -19,7 +19,7 @@
     "chyoutube": "https://youtube.com",
     "chname": "Rede Brasil",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RedeBrasil.png",
-    "chid": "0",
+    "chid": "51",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -31,7 +31,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Summer TV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SummerTV.png",
-    "chid": "0",
+    "chid": "52",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -43,7 +43,7 @@
     "chyoutube": "https://youtube.com",
     "chname": "Rede HTV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RedeHTV.png",
-    "chid": "0",
+    "chid": "53",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   }

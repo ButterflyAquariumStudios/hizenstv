@@ -7,7 +7,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Hizens Filmes",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensFilmes.png",
-    "chid": "0",
+    "chid": "200",
     "chdesc": "Transmissão oficial do Cine Livre. Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -19,7 +19,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Cine Trianon TV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
+    "chid": "201",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -31,7 +31,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "KronosTV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
+    "chid": "202",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -43,7 +43,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Vintage TV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
+    "chid": "203",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -55,7 +55,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "LatinaSat",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
+    "chid": "204",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -67,7 +67,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Chel Channel",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
+    "chid": "205",
     "chdesc": "Transmitido direto do Twitch.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -79,7 +79,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "PPTV Channel",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
+    "chid": "206",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   }

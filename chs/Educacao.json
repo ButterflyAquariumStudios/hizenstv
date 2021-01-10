@@ -7,7 +7,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "ISTV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "0",
+    "chid": "31",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -19,7 +19,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "CTV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CTV.png",
-    "chid": "0",
+    "chid": "32",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   }

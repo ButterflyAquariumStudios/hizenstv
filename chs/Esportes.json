@@ -7,7 +7,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "All Sports HDTV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/AllSportsTV.png",
-    "chid": "0",
+    "chid": "100",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -19,7 +19,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "UFC",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/UFC.png",
-    "chid": "0",
+    "chid": "101",
     "chdesc": "Transmitido direto da Twitch.",
     "chprogram": "Nenhuma programação definida."
   }

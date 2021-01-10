@@ -7,7 +7,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Chel Channel",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ChelChannel.png",
-    "chid": "0",
+    "chid": "150",
     "chdesc": "Transmitido direto do Twitch.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -19,7 +19,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "VMTV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/VM.png",
-    "chid": "0",
+    "chid": "151",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
   },
@@ -31,7 +31,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Os Simpsons 24/7",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TheSimpsons.png",
-    "chid": "0",
+    "chid": "152",
     "chdesc": "Transmitido direto do Twitch.",
     "chprogram": "Nenhuma programação definida."
   }
