@@ -106,17 +106,5 @@
     "chid": "128",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
-  },
-  {
-    "chlink": "https://app.viloud.tv/player/embed/channel/1ce684b2266c5182e1b6939b8ab50554?autoplay=1&volume=1&controls=0&title=0&share=0&open_playlist=0&random=0",
-    "chsite": "nosite",
-    "chcategory": "Infantil",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "Hizens TV 3",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV.png",
-    "chid": "129",
-    "chdesc": "Transmissão original.",
-    "chprogram": "Nenhuma programação definida."
   }
 ]
