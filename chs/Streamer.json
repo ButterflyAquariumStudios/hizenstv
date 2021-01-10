@@ -1,0 +1,50 @@
+[
+  {
+    "chlink": "https://player.twitch.tv/?channel=alanzoka&parent=hizentv",
+    "chsite": "https://www.twitch.tv/alanzoka",
+    "chcategory": "Streamer",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Alanzoka",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Alanzoka.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=cellbit&parent=hizentv",
+    "chsite": "https://www.twitch.tv/cellbit",
+    "chcategory": "Streamer",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Cellbit",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Cellbit.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=AlbinhoGM&parent=hizentv",
+    "chsite": "https://www.twitch.tv/AlbinhoGM",
+    "chcategory": "Streamer",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "AlbinhoGM",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Albinho.png",
+    "chid": "0",
+    "chdesc": "AlbinhoGM é um jogador tranquilo de PS4, apenas se divertindo na stream. Parceiro oficial. Transmitido direto do Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=Felps&parent=hizentv",
+    "chsite": "https://www.twitch.tv/Felps",
+    "chcategory": "Streamer",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Felps",
+    "chimg": "https://pbs.twimg.com/profile_images/1305597372043612160/DZvWNQwC_400x400.jpg",
+    "chid": "0",
+    "chdesc": "Transmitido direto do Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  }
+]

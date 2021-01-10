@@ -1,0 +1,26 @@
+[
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/allsportstv.html",
+    "chsite": "nosite",
+    "chcategory": "Esportes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "All Sports HDTV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/AllSportsTV.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=UFC&parent=hizentv",
+    "chsite": "https://www.twitch.tv/ufc/videos",
+    "chcategory": "Esportes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "UFC",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/UFC.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto da Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  }
+]

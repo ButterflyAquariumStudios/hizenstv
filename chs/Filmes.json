@@ -1,0 +1,86 @@
+[
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cinelivre.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Hizens Filmes",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensFilmes.png",
+    "chid": "0",
+    "chdesc": "Transmissão oficial do Cine Livre. Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cinetrianontv.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Cine Trianon TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/kronostv.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "KronosTV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/vintagetv.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Vintage TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/latinasat.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "LatinaSat",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=Chel_channel&parent=hizentv",
+    "chsite": "https://www.twitch.tv/chel_channel",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Chel Channel",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/pptv.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "PPTV Channel",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/hizens2.html",
+    "chsite": "https://github.com/ButterflyAquariumStudios/hizenstv",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Hizens TV2",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV2.png",
+    "chid": "0",
+    "chdesc": "Hizens TV2 é o canal secundário da Hizens. Transmissão da Cine Livre IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/recordtv.html",
+    "chsite": "https://r7.com",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Record TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RecordTV.png",
+    "chid": "0",
+    "chdesc": "Record é uma emissora brasileira com canal aberto. Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/ABVQXgr2LW4",
+    "chsite": "https://sbt.com.br",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "SBT",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SBT.png",
+    "chid": "0",
+    "chdesc": "SBT é uma emissora brasileira com canal aberto. Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/TQmOErWyRfA",
+    "chsite": "https://a12.com",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Aparecida",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVAparecida.png",
+    "chid": "0",
+    "chdesc": "TV Aparecida é um canal religioso com conteúdos para todas as idades. Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.dailymotion.com/embed/video/k5gtQySjwe85eTwnvD6?autoplay=1&queue-enable=false&muted=true",
+    "chsite": "https://cultura.uol.com.br",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Cultura",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVCultura.png",
+    "chid": "0",
+    "chdesc": "TV Cultura é um canal aberto clássico brasileiro. Transmitido direto do Dailymotion/TV Cultura.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redetv.html",
+    "chsite": "nosite",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Pampa RedeTV!",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVPampaRedeTV.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://video.rnp.br:443/portal/embed-channel?idItem=39285&autostart=true",
+    "chsite": "https://tvbrasil.ebc.com.br/",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Brasil",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVBrasil.png",
+    "chid": "0",
+    "chdesc": "TV Brasil é um canal aberto brasileiro. Transmitido direto da TV Brasil Web.",
+    "chprogram": "Nenhuma programação definida."
+  }
+]

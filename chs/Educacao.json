@@ -1,0 +1,26 @@
+[
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/istv.html",
+    "chsite": "nosite",
+    "chcategory": "Educação",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "ISTV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/ctv.html",
+    "chsite": "nosite",
+    "chcategory": "Educação",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "CTV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CTV.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  }
+]

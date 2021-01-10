@@ -1,0 +1,38 @@
+[
+  {
+    "chlink": "https://player.twitch.tv/?channel=Chel_channel&parent=hizentv",
+    "chsite": "https://www.twitch.tv/chel_channel",
+    "chcategory": "Series",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Chel Channel",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ChelChannel.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/vmtv.html",
+    "chsite": "nosite",
+    "chcategory": "Series",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "VMTV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/VM.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=SimpsonsTvBr&parent=hizentv",
+    "chsite": "https://www.twitch.tv/simpsonstvbr",
+    "chcategory": "Series",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Os Simpsons 24/7",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TheSimpsons.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  }
+]

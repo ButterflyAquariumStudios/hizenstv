@@ -1,0 +1,98 @@
+[
+  {
+    "chlink": "https://www.youtube.com/embed/v3jpVUOi9XU",
+    "chsite": "https://nations.io/",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/user/AllTrapNation",
+    "chname": "Trap Nation",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TrapNation.png",
+    "chid": "0",
+    "chdesc": "Trap Nation é um canal americano de musica do YouTube. É o principal canal da The Nation Network. Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/5qap5aO4i9A",
+    "chsite": "https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "ChilledCow Lo-Fi Hip-Hop",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ChilledCow.png",
+    "chid": "0",
+    "chdesc": "ChilledCow é um canal de musica do youtube. Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/xoj59abqjWU",
+    "chsite": "https://www.youtube.com/channel/UCiJnBO_XuDsi1SSRAmt4n5g",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "NCS Gaming Radio",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/NCS.png",
+    "chid": "0",
+    "chdesc": "NCS é um canal de musica do YouTube. É um canal muito famoso por distribuir musicas sem direitos autorais para videos. Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/WsDyRAPFBC8",
+    "chsite": "https://www.youtube.com/channel/UCX4sShAQf01LYjYQhG2ZgKg",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Silk Music - Deep House",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SilkMusic.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "http://player.twitch.tv/?channel=Insomniac&parent=hizentv",
+    "chsite": "https://www.twitch.tv/insomniac/videos",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "InsomniacTV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Insomniac.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto da Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=RelaxBeats&parent=hizentv",
+    "chsite": "https://www.twitch.tv/relaxbeats/videos",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "RelaxBeats",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RelaxBeats.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto da Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=Monstercat&parent=hizentv",
+    "chsite": "https://www.twitch.tv/monstercat/videos",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Monstercat",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Monstercat.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto da Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=KpopTV247&parent=hizentv",
+    "chsite": "https://www.twitch.tv/kpoptv247/videos",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "KpopTV 24/7",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/kpop.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto da Twitch.",
+    "chprogram": "Nenhuma programação definida."
+  }
+]

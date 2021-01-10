@@ -1,0 +1,50 @@
+[
+  {
+    "chlink": "https://www.youtube.com/embed/VQRH6xM6T2o",
+    "chsite": "https://noticias.r7.com/record-news",
+    "chcategory": "Noticias",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Record News",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RecordNews.png",
+    "chid": "0",
+    "chdesc": "Record News é um canal aberto brasileiro focado em noticias. Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cnn.html",
+    "chsite": "nosite",
+    "chcategory": "Noticias",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "CNN",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CNN.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/VOw7bts_rGQ",
+    "chsite": "https://www.youtube.com/user/euronewspt",
+    "chcategory": "Noticias",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Euronews",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Euronews.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/JbKgQhFlMdU",
+    "chsite": "https://www.youtube.com/user/euronewspt",
+    "chcategory": "Noticias",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Euronews Internacional",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Euronews.png",
+    "chid": "0",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/bonstempostv.html",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Bons Tempos TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/BonsTemposTV.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redebrasil.html",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Rede Brasil",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RedeBrasil.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/summertv.html",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Summer TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SummerTV.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redehtv.html",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Rede HTV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RedeHTV.png",
+    "chid": "0",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  }
+]
