@@ -1,5 +1,17 @@
 [
   {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/animetv.html",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Hizens Anime",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensAnime.png",
+    "chid": "120",
+    "chdesc": "Transmissão original da AnimeTV. Transmissão IPTV.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
     "chlink": "https://player.twitch.tv/?channel=Chel_channel&parent=hizentv",
     "chsite": "https://www.twitch.tv/chel_channel",
     "chcategory": "Series",
