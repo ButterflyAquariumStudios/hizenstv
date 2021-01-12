@@ -94,5 +94,41 @@
     "chid": "128",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/Lx67sbuf0jg?controls=0&autostart=1",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Super Strikas",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "129",
+    "chdesc": "Transmissão direta do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/083Wc8SmARk?controls=0&autostart=1",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Pocoyo",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "130",
+    "chdesc": "Transmissão direta do YouTube.",
+    "chprogram": "Nenhuma programação definida."
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/keIt6LJEC44?controls=0&autostart=1",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Talking Tom Heroes",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "131",
+    "chdesc": "Transmissão direta do YouTube.",
+    "chprogram": "Nenhuma programação definida."
   }
 ]
