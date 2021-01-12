@@ -1,0 +1,80 @@
+[
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLWduEF1R_tVaZWQXxIyLihVby-NS7IqKq&index=RANDOMIZELOL&autoplay=1&controls=0&repeat=1",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Turma da Monica 80 & 90",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "624",
+    "chdesc": "Playlist transmitido direto do YouTube.",
+    "chprogram": "Nenhuma programação definida.",
+    "chlimit": 40
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLWduEF1R_tVZYNTH8ajFOEDkDT_hfIQL9&index=RANDOMIZELOL&autoplay=1&controls=0&repeat=1",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Turma da Monica",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "625",
+    "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "Nenhuma programação definida.",
+    "chlimit": 205
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PL2EJlPZ0iJu7JMchSngqLHyzV_sU91N7Y&index=RANDOMIZELOL&autoplay=1&controls=0&repeat=1",
+    "chsite": "nosite",
+    "chcategory": "Educação",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Nostalgia História",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "626",
+    "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "Nenhuma programação definida.",
+    "chlimit": 10
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLPz6TqSYQzDaGNhwuK2JFVJ1bNeHe1dw5&index=RANDOMIZELOL&autoplay=1&controls=0&repeat=1",
+    "chsite": "nosite",
+    "chcategory": "Educação",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Explicado por Ciência Todo Dia",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "627",
+    "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "Nenhuma programação definida.",
+    "chlimit": 32
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLC1og_v3eb4hrv4wsqG1G5dsNZh9bIscJ&index=RANDOMIZELOL&autoplay=1&controls=0&repeat=1",
+    "chsite": "nosite",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Trap Nation - Top Hits",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "628",
+    "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "Nenhuma programação definida.",
+    "chlimit": 80
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLxcY7elCGtaG_NGvgCt5zAHEt8dUJ8fdk&index=RANDOMIZELOL&autoplay=1&controls=0&repeat=1",
+    "chsite": "nosite",
+    "chcategory": "Comedia",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Parafernalha",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "629",
+    "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "Nenhuma programação definida.",
+    "chlimit": 173
+  }
+]
