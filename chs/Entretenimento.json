@@ -36,15 +36,15 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://player.twitch.tv/?channel=SimpsonsTvBr&parent=hizentv",
-    "chsite": "https://www.twitch.tv/simpsonstvbr",
+    "chlink": "https://app.viloud.tv/player/embed/channel/db370927417f08bd1496f2042a70c8ec?autoplay=1&volume=1&controls=0&title=0&share=0&open_playlist=0&random=1",
+    "chsite": "https://www.youtube.com",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
-    "chname": "Os Simpsons 24/7",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TheSimpsons.png",
+    "chname": "People are Awesome",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "152",
-    "chdesc": "Transmitido direto do Twitch.",
+    "chdesc": "Transmissão de Playlist do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
