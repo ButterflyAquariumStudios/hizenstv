@@ -9,7 +9,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/AllSportsTV.png",
     "chid": "100",
     "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://player.twitch.tv/?channel=UFC&parent=hizentv",
@@ -21,6 +21,6 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/UFC.png",
     "chid": "101",
     "chdesc": "Transmitido direto da Twitch.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

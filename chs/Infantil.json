@@ -9,7 +9,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CN.png",
     "chid": "121",
     "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://www.youtube.com/embed/5pIvLWHWuPQ",
@@ -21,7 +21,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TomJerry.png",
     "chid": "122",
     "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://www.youtube.com/embed/f5Th0QulmcE",
@@ -33,7 +33,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "123",
     "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://www.youtube.com/embed/7x7YbTLH-4s",
@@ -45,7 +45,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "124",
     "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://butsoccer.xyz/hizenstv/player/chs/retrocartoon.html",
@@ -57,7 +57,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RetroCartoon.png",
     "chid": "125",
     "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://www.youtube.com/embed/3DZEFZR4bVQ",
@@ -69,7 +69,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Babybus.png",
     "chid": "126",
     "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://www.youtube.com/embed/FkQjSxSCzvw",
@@ -81,7 +81,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "127",
     "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://butsoccer.xyz/hizenstv/player/chs/tvmanchete.html",
@@ -93,7 +93,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVManchete.png",
     "chid": "128",
     "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://www.youtube.com/embed/Lx67sbuf0jg?controls=0&autostart=1",
@@ -105,7 +105,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "129",
     "chdesc": "Transmissão direta do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://www.youtube.com/embed/083Wc8SmARk?controls=0&autostart=1",
@@ -117,7 +117,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "130",
     "chdesc": "Transmissão direta do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://www.youtube.com/embed/keIt6LJEC44?controls=0&autostart=1",
@@ -129,6 +129,6 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "131",
     "chdesc": "Transmissão direta do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

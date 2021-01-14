@@ -9,6 +9,6 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/FailArmy.png",
     "chid": "90",
     "chdesc": "Transmitido direto da Twitch.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

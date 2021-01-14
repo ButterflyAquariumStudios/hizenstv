@@ -9,7 +9,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "31",
     "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://butsoccer.xyz/hizenstv/player/chs/ctv.html",
@@ -21,6 +21,6 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CTV.png",
     "chid": "32",
     "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

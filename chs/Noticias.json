@@ -9,7 +9,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RecordNews.png",
     "chid": "20",
     "chdesc": "Record News é um canal aberto brasileiro focado em noticias. Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cnn.html",
@@ -21,7 +21,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CNN.png",
     "chid": "21",
     "chdesc": "Transmissão IPTV.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://www.youtube.com/embed/VOw7bts_rGQ",
@@ -33,7 +33,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Euronews.png",
     "chid": "22",
     "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
     "chlink": "https://www.youtube.com/embed/JbKgQhFlMdU",
@@ -45,6 +45,6 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Euronews.png",
     "chid": "23",
     "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida."
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

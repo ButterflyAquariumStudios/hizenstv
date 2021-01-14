@@ -9,7 +9,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "624",
     "chdesc": "Playlist transmitido direto do YouTube.",
-    "chprogram": "Nenhuma programação definida.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 40
   },
   {
@@ -22,7 +22,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "625",
     "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "Nenhuma programação definida.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 205
   },
   {
@@ -35,7 +35,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "626",
     "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "Nenhuma programação definida.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 10
   },
   {
@@ -48,7 +48,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "627",
     "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "Nenhuma programação definida.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 32
   },
   {
@@ -61,7 +61,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "628",
     "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "Nenhuma programação definida.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 80
   },
   {
@@ -74,7 +74,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "629",
     "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "Nenhuma programação definida.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 173
   },
   {
@@ -87,7 +87,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "630",
     "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "Nenhuma programação definida.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 15
   },
   {
@@ -100,7 +100,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "631",
     "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "Nenhuma programação definida.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 44
   },
   {
@@ -113,7 +113,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "632",
     "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "Nenhuma programação definida.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 55
   },
   {
@@ -126,7 +126,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "633",
     "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "Nenhuma programação definida.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 55
   },
   {
@@ -139,7 +139,7 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
     "chid": "634",
     "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "Nenhuma programação definida.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 55
   }
 ]
