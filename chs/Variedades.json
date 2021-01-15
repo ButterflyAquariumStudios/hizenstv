@@ -46,5 +46,17 @@
     "chid": "53",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/tvchroma.html",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Chroma",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "54",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

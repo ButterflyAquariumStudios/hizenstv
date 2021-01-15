@@ -82,5 +82,29 @@
     "chid": "8",
     "chdesc": "TV Brasil é um canal aberto brasileiro. Transmitido direto da TV Brasil Web.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/aExe6YxlUrs?controls=0&autoplay=1",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Mega TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "9",
+    "chdesc": "Transmitido direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/tvmar.html",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Mar",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chid": "10",
+    "chdesc": "Transmitido direto do site da TV Mar.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
