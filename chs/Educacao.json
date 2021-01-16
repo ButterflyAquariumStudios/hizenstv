@@ -6,7 +6,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "ISTV",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ISTV.png",
     "chid": "31",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -30,7 +30,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Sesc TV",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SescTV.png",
     "chid": "33",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"

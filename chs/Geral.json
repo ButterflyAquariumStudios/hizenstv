@@ -90,7 +90,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "Mega TV",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/MegaTV.png",
     "chid": "9",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -102,7 +102,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "TV Mar",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVMar.png",
     "chid": "10",
     "chdesc": "Transmitido direto do site da TV Mar.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"

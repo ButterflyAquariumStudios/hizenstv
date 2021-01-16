@@ -6,7 +6,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Cartoon Network",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CN.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CartoonNetwork.png",
     "chid": "121",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -30,7 +30,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Talking Tom",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TalkingTom.png",
     "chid": "123",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -42,7 +42,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Natal com Bob Esponja",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/BobEsponja.png",
     "chid": "124",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -78,7 +78,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Canal BabyFirst",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/BabyFirst.png",
     "chid": "127",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -102,7 +102,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Super Strikas",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SupaStrikas.png",
     "chid": "129",
     "chdesc": "Transmissão direta do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -114,7 +114,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Pocoyo",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Pocoyo.png",
     "chid": "130",
     "chdesc": "Transmissão direta do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -126,7 +126,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Talking Tom Heroes",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TalkingTomHeroes.png",
     "chid": "131",
     "chdesc": "Transmissão direta do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
