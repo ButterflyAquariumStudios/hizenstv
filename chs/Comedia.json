@@ -10,17 +10,5 @@
     "chid": "90",
     "chdesc": "Transmitido direto da Twitch.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
-  },
-  {
-    "chlink": "https://app.viloud.tv/player/embed/video/21159a4cd70575217411a4949abb27ab?autoplay=1&volume=1&controls=0&title=0&share=0&open_playlist=0",
-    "chsite": "https://www.youtube.com/",
-    "chcategory": "Comedia",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "Comedy Central Stand-Up",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
-    "chid": "91",
-    "chdesc": "Transmitido direto do YouTube.",
-    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

@@ -22,17 +22,5 @@
     "chid": "1",
     "chdesc": "Hizens TV é o canal oficial da Hizens, com conteúdo variado.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/testetv.html",
-    "chsite": "https://github.com/ButterflyAquariumStudios/hizenstv",
-    "chcategory": "Hizens TV",
-    "chsocial": "nosocial",
-    "chyoutube": "https://youtube.com",
-    "chname": "Teste",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV.png",
-    "chid": "345345",
-    "chdesc": "Hizens TV é o canal oficial da Hizens, com conteúdo variado.",
-    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

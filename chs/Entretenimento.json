@@ -46,5 +46,65 @@
     "chid": "152",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://playerv.zcast.com.br/video/yeeaah/1/true/false/YzNKMk15NTZZMkZ6ZEM1amIyMHVZbkk9K1o=/16:9/nocover/nao/",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Yeeaah",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Yeeaah.png",
+    "chid": "153",
+    "chdesc": "Transmissão oficial do site Yeeaah.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=SBTGamesOficial&parent=hizentv",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "SBT Games",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SBTGames.png",
+    "chid": "154",
+    "chdesc": "Transmitido direto da Twitch.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "As Panteras",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/AsPanteras.png",
+    "chid": "155",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "A Mulher Biônica",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/MulherBionica.png",
+    "chid": "156",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Star Trek - Jornada nas Estrelas",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/StarTrek.png",
+    "chid": "157",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

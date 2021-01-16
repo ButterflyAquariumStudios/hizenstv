@@ -22,5 +22,17 @@
     "chid": "101",
     "chdesc": "Transmitido direto da Twitch.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=PlanetaNBA&parent=hizentv",
+    "chsite": "https://www.twitch.tv/PlanetaNBA/videos",
+    "chcategory": "Esportes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Planeta NBA",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/PlanetaNBA.png",
+    "chid": "102",
+    "chdesc": "Planeta NBA é um podcast espanhol sobre NBA com mais escutas.\nTransmitido direto da Twitch.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

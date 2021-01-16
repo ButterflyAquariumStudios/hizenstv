@@ -6,9 +6,9 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Alanzoka",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Alanzoka.png",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/15cec952-c1ba-4ff8-a79c-53c2fa5bd269-profile_image-300x300.png",
     "chid": "500",
-    "chdesc": "Transmitido direto do Twitch.",
+    "chdesc": "Alanzoka é um dos maiores streamers da Twitch, se não o maior.\nTransmitido direto do Twitch.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
@@ -18,9 +18,9 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Cellbit",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Cellbit.png",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc6f3c08-4007-4719-b9ca-7771de6e7488-profile_image-300x300.png",
     "chid": "501",
-    "chdesc": "Transmitido direto do Twitch.",
+    "chdesc": "Cellbit, ele tem 23 anos e é streamer, quer coisa melhor?\nTransmitido direto do Twitch.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
@@ -30,7 +30,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "AlbinhoGM",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Albinho.png",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/f205e54f-2169-4e1d-9acd-01aae3a50e78-profile_image-300x300.png",
     "chid": "502",
     "chdesc": "AlbinhoGM é um jogador tranquilo de PS4, apenas se divertindo na stream. Parceiro oficial. Transmitido direto do Twitch.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -42,9 +42,93 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Felps",
-    "chimg": "https://pbs.twimg.com/profile_images/1305597372043612160/DZvWNQwC_400x400.jpg",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/0f407dca-e9f8-4a90-beb9-cdf6837d0000-profile_image-300x300.png",
     "chid": "503",
     "chdesc": "Transmitido direto do Twitch.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=Gaules&parent=hizentv",
+    "chsite": "https://www.twitch.tv/Gaules",
+    "chcategory": "Streamer",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Gaules",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/c495b77e-7f47-4bc5-a216-3045d7545796-profile_image-300x300.png",
+    "chid": "504",
+    "chdesc": "Gaules é um streamer que já atuou no profissional de CS e campeão do mundo em 2007 com MIBR.\nTransmitido direto do Twitch.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=paulanobre&parent=hizentv",
+    "chsite": "https://www.twitch.tv/paulanobre",
+    "chcategory": "Streamer",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Paula Nobre",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/450ef44c-3ee8-4a99-8e37-c7d64c3bbb89-profile_image-300x300.png",
+    "chid": "505",
+    "chdesc": "Paula Nobre é uma streamer de Valorant.\nTransmitido direto do Twitch.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=Rakin&parent=hizentv",
+    "chsite": "https://www.twitch.tv/Rakin",
+    "chcategory": "Streamer",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Rakin",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d2dbb35-8729-4650-86ac-b23317b88770-profile_image-300x300.png",
+    "chid": "506",
+    "chdesc": "Streamer de Variedades, todos os dias online as 13h.\nTransmitido direto do Twitch.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=skipwook&parent=hizentv",
+    "chsite": "https://www.twitch.tv/skipwook",
+    "chcategory": "Streamer",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "SkipWook",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/2eb97444-4281-4163-9613-cce7c568a2d2-profile_image-300x300.png",
+    "chid": "507",
+    "chdesc": "SkipWook é um streamer de League of Legends e PES.\nTransmitido direto do Twitch.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=oMeiaUm&parent=hizentv",
+    "chsite": "https://www.twitch.tv/oMeiaUm",
+    "chcategory": "Streamer",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "MeiaUm",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ac64b1f-f985-4644-8cea-e9d036d83c1a-profile_image-300x300.png",
+    "chid": "508",
+    "chdesc": "MeiaUm tem 21 anos e faz stream de variedades.\nTransmitido direto do Twitch.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=ElegasTV&parent=hizentv",
+    "chsite": "https://www.twitch.tv/ElegasTV",
+    "chcategory": "Streamer",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "ElegasTV",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/d55958f5-4df1-43be-b86d-8fba167e7e32-profile_image-300x300.png",
+    "chid": "509",
+    "chdesc": "Estamos sempre assistindo algum filme por aqui – e de vez em quando, séries ou animes.\nTransmitido direto do Twitch.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=AmdreYoung&parent=hizentv",
+    "chsite": "https://www.twitch.tv/AmdreYoung",
+    "chcategory": "Streamer",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "AmdreYoung",
+    "chimg": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3aedef9-b346-455e-894e-d969ea03b7f7-profile_image-300x300.png",
+    "chid": "510",
+    "chdesc": "AmdreYoung faz transmissões de Ciência e tecnologia. (e ele é bom mesmo)\nTransmitido direto do Twitch.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
