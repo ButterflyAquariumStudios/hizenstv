@@ -1,6 +1,6 @@
 [
   {
-    "chlink": "https://www.youtube.com/embed/V5AQvM20fAE",
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UC1toK6UDXwreacdepXYcyqA&controls=0&autoplay=1",
     "chsite": "https://www.youtube.com/user/BRCartoonNetwork",
     "chcategory": "Infantil",
     "chsocial": "nosocial",
@@ -12,7 +12,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/5pIvLWHWuPQ",
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCCb3DX0GO9f0EFizD5PT7bQ&controls=0&autoplay=1",
     "chsite": "https://www.youtube.com/channel/UCCb3DX0GO9f0EFizD5PT7bQ",
     "chcategory": "Infantil",
     "chsocial": "nosocial",
@@ -24,7 +24,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/aq1mqRIcHgw?controls=0&autostart=1",
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCm3hAp1m1xlAz0ve_EKAo4g&controls=0&autoplay=1",
     "chsite": "nosite",
     "chcategory": "Infantil",
     "chsocial": "nosocial",
@@ -36,12 +36,12 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/7x7YbTLH-4s",
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCx68_7D0FoZSu_u0z7Qc8sQ&controls=0",
     "chsite": "nosite",
     "chcategory": "Infantil",
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
-    "chname": "Natal com Bob Esponja",
+    "chname": "Bob Esponja",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/BobEsponja.png",
     "chid": "124",
     "chdesc": "Transmitido direto do YouTube.",
@@ -60,7 +60,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/3DZEFZR4bVQ",
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCpYye8D5fFMUPf9nSfgd4bA&controls=0&autoplay=1",
     "chsite": "https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA",
     "chcategory": "Infantil",
     "chsocial": "nosocial",
@@ -72,7 +72,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/FkQjSxSCzvw",
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UC5nrB6LSxXhowk7i2rTgNng&controls=0&autoplay=1",
     "chsite": "https://www.youtube.com/channel/UC5nrB6LSxXhowk7i2rTgNng",
     "chcategory": "Infantil",
     "chsocial": "nosocial",
@@ -96,7 +96,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/RbpO08Is03I?controls=0&autostart=1",
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCHbNGUI0CcKEra3FeM4en0A&controls=0&autoplay=1",
     "chsite": "nosite",
     "chcategory": "Infantil",
     "chsocial": "nosocial",
@@ -108,7 +108,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/qkOCl3qB9EU?controls=0&autostart=1",
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCEnXFTwKRy4zSafAGPkooNA&controls=0&autoplay=1",
     "chsite": "nosite",
     "chcategory": "Infantil",
     "chsocial": "nosocial",
@@ -120,7 +120,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/keIt6LJEC44?controls=0&autostart=1",
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCwC-DciMGGk9AgpJ3hpreHw&controls=0&autoplay=1",
     "chsite": "nosite",
     "chcategory": "Infantil",
     "chsocial": "nosocial",
@@ -128,6 +128,18 @@
     "chname": "Talking Tom Heroes",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TalkingTomHeroes.png",
     "chid": "131",
+    "chdesc": "Transmissão direta do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCGHwgdWN9WHAb9q83p-S8EQ&controls=0&autoplay=1",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Léo O Caminhão",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/LeoCaminhao.png",
+    "chid": "132",
     "chdesc": "Transmissão direta do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }

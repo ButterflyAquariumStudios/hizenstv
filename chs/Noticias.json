@@ -58,5 +58,17 @@
     "chid": "24",
     "chdesc": "Transmitido IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCP391YRAjSOdM_bwievgaZA&controls=0",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Noticias",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Jovem Pan News",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/JPNews.png",
+    "chid": "25",
+    "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

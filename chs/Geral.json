@@ -36,7 +36,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/TQmOErWyRfA",
+    "chlink": "https://www.youtube.com/embed/TQmOErWyRfA?controls=0",
     "chsite": "https://a12.com",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -48,7 +48,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.dailymotion.com/embed/video/k5gtQySjwe85eTwnvD6?autoplay=1&queue-enable=false&muted=true",
+    "chlink": "https://www.dailymotion.com/embed/video/k5gtQySjwe85eTwnvD6?autoplay=1&queue-enable=false&muted=false",
     "chsite": "https://cultura.uol.com.br",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -84,13 +84,13 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/aExe6YxlUrs?controls=0&autoplay=1",
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCsRfBAspa72ExrsN347W2xg&controls=0",
     "chsite": "https://www.youtube.com",
     "chcategory": "Geral",
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
-    "chname": "Mega TV",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/MegaTV.png",
+    "chname": "SBT Rio",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SBT.png",
     "chid": "9",
     "chdesc": "Transmitido direto do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -105,6 +105,54 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVMar.png",
     "chid": "10",
     "chdesc": "Transmitido direto do site da TV Mar.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UC0qlZ5jxxueKNzUERcrllNw&controls=0",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Justiça",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVJustica.png",
+    "chid": "11",
+    "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCCuYi5AP3gya6C5mdWYS6CQ&controls=0",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Shoptime",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Shoptime.png",
+    "chid": "12",
+    "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Rede Vida",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RedeVida.png",
+    "chid": "13",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://srv3.zcast.com.br/tvmaceio/tvmaceio/playlist.m3u8",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Maceió",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVMaceio.png",
+    "chid": "14",
+    "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

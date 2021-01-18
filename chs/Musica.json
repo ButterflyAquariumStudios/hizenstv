@@ -130,5 +130,17 @@
     "chid": "80",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCQNN7INAt1yS_v0P0tSlbrQ&controls=0",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Hunter.FM",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HunterFM.png",
+    "chid": "81",
+    "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

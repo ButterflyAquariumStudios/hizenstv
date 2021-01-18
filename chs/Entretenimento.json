@@ -36,7 +36,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/loadingtv.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://akamai2-br.cdn.booyah.live/hls/1000029/master_34850987.m3u8",
     "chsite": "https://www.youtube.com",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
@@ -105,6 +105,30 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/StarTrek.png",
     "chid": "157",
     "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/playlist.m3u8",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "People are Awesome",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/PeopleAreAwesome.png",
+    "chid": "158",
+    "chdesc": "Transmissão IPTV (PlexTV).",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/playlist.m3u8",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "WeatherSpy",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/WeatherSpy.png",
+    "chid": "159",
+    "chdesc": "Transmissão IPTV (PlexTV).",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
