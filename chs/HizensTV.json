@@ -1,14 +1,14 @@
 [
   {
-    "chlink": "https://app.viloud.tv/player/embed/channel/34c5208dca325cfafc9c2c3d94490d8e?autoplay=1&volume=1&controls=0&title=0&share=0&open_playlist=0&random=0",
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLBv9h8SYk1vwzGmbP_XbpYXAsE63jXyXF&controls=0&autoplay=1",
     "chsite": "https://github.com/ButterflyAquariumStudios/hizenstv",
     "chcategory": "Hizens TV",
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
-    "chname": "Guia Rápido",
+    "chname": "Guia de canais",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/guiadecanais.png",
     "chid": "0",
-    "chdesc": "Há uma lista de canais abaixo esperando por você. Escolha um, toque, e se divirta. Alguns canais precisam que você aperte play ou ligue o som, não se incomode com isso.",
+    "chdesc": "Bem vindo a Hizens TV. Escolha seu canal preferido, ligue o som, e assista o quanto você quiser. Gratuito e sem anúncios irritantes.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
