@@ -54,7 +54,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
     "chname": "Jovem Pan Esportes",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/JPEsportes.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/JPEsporte.png",
     "chid": "104",
     "chdesc": "Jovem Pan Esportes tem transmissões esportivas interessantes.\nTransmissões direto do YouTube em horários especificos.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -69,6 +69,18 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/UOLEsporte.png",
     "chid": "105",
     "chdesc": "UOL Esporte é um canal do YouTube que faz transmissões esportivas.\nTransmissões direto do YouTube em horários especificos.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCOa-WaNwQaoyFHLCDk7qKIw&controls=0&autoplay=1",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Esportes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "FLA TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/FlaTV.png",
+    "chid": "106",
+    "chdesc": "FLA TV transmite os jogos do Clube de Regatas Flamengo em dias de jogo (Geralmente sem imagens).\nTransmissões direto do YouTube em horários especificos.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

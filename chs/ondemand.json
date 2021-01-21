@@ -154,5 +154,57 @@
     "chdesc": "Playlist transmitida direto do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 55
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PL4n4i6GrObGBr7JYczBz-FeymKqyeNJD4&index=RANDOMIZELOL&controls=0&autoplay=1",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Mickey Mouse",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/MickeyOD.png",
+    "chid": "636",
+    "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
+    "chlimit": 55
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLT0Smhj8chMUR-kmzOR4wQWnxeuc7JtGB&index=RANDOMIZELOL&controls=0&autoplay=1",
+    "chsite": "nosite",
+    "chcategory": "Comedia",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Porta dos Fundos",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/PortaDosFundosOD.png",
+    "chid": "637",
+    "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
+    "chlimit": 55
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLH-VPhy_QJLHZnoSJHKMTr77F5A-riH5i&controls=0&autoplay=1",
+    "chsite": "nosite",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "CENTRAL",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CentralOD.png",
+    "chid": "638",
+    "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
+    "chlimit": 55
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLtS1NoNTpe8BHm3Y_fvpg9InBiDl15Ods&index=RANDOMIZELOL&controls=0&autoplay=1",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "A Pantera Cor de Rosa",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/PanteraOD.png",
+    "chid": "639",
+    "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
+    "chlimit": 55
   }
 ]

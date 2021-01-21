@@ -22,5 +22,17 @@
     "chid": "91",
     "chdesc": "Transmissão IPTV (PlexTV). ",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UC9U4nIDyIzzelXrjNQXNvxA&controls=0&autoplay=1",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Comedia",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Pânico Jovem Pan",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Panico.png",
+    "chid": "92",
+    "chdesc": "Transmitido direto do YouTube. ",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
