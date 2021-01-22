@@ -58,5 +58,17 @@
     "chid": "254",
     "chdesc": "Transmissão direto do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCLA_DiR1FfKNvjuUpBHmylQ&controls=0&autoplay=1",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Documentários",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "NASA TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/NASA.png",
+    "chid": "255",
+    "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

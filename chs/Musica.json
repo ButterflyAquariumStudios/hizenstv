@@ -142,5 +142,65 @@
     "chid": "81",
     "chdesc": "Transmissão direto do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCE7gceSq79z8uW7cTe86UaA&controls=0&autoplay=1",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Future House Rádio",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/FutureHouseRadio.png",
+    "chid": "82",
+    "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCsN8M73DMWa8SPp5o_0IAQQ&controls=0&autoplay=1",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Tomorrowland",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Tomorrowland.png",
+    "chid": "83",
+    "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCn0NUsrqao9WNBO6A-hIEOg&controls=0&autoplay=1",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Radio Sertanejo",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Sertanejo.png",
+    "chid": "84",
+    "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCQvNQPN8YsbLIgDiHxpLH6Q&controls=0&autoplay=1",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Radio Forró",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Forro.png",
+    "chid": "85",
+    "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UC-MMd_17p3qNSTVbLdiYzow&controls=0&autoplay=1",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Musica",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Rap Mafia",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RapMafia.png",
+    "chid": "86",
+    "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
