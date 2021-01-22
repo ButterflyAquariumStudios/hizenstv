@@ -58,5 +58,89 @@
     "chid": "54",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://livefocamundo.com:8081/8148/index.m3u8",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Aracati",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVAracati.png",
+    "chid": "55",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Água Boa",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVAguaBoa.png",
+    "chid": "56",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Natal",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVNatal.png",
+    "chid": "57",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Japi",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVJapi.png",
+    "chid": "58",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://5b7f3c45ab7c2.streamlock.net/8002/8002/cunklist.m3u8",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Imperial TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ImperalTV.png",
+    "chid": "59",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://studio.genialltv.com/live/Stream1_360p/playlist.m3u8",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "Geniall TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/GeniallTV.png",
+    "chid": "60",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
+    "chsite": "nosite",
+    "chcategory": "Variedades",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Mais Brasil",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVMaisBrasil.png",
+    "chid": "61",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

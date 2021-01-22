@@ -142,5 +142,29 @@
     "chid": "132",
     "chdesc": "Transmissão direta do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-1080p.m3u8",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "TV Recon Sat Kids",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ReconSatKids.png",
+    "chid": "133",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Retrô Cartoon 2",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RetroCartoon.png",
+    "chid": "134",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

@@ -36,7 +36,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://centurylink.br.cdn.booyah.live/hls/1000011/master_34850987.m3u8",
+    "chlink": "https://booyah.live/standalone/liveplayer/34850987?room_id=34659740",
     "chsite": "https://www.youtube.com",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
@@ -129,6 +129,18 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/WeatherSpy.png",
     "chid": "159",
     "chdesc": "Transmissão IPTV (PlexTV).",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://stmv1.srvif.com/manchetebahia/manchetebahia/playlist.m3u8",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "TV Manchete Bahia",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVMancheteBahia.png",
+    "chid": "160",
+    "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
