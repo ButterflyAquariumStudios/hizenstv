@@ -154,5 +154,17 @@
     "chid": "14",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Geral",
+    "chsocial": "nosocial",
+    "chyoutube": "https://youtube.com",
+    "chname": "TV Bandeirantes (RBATV)",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Band.png",
+    "chid": "15",
+    "chdesc": "Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
