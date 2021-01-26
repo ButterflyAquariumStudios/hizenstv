@@ -12,7 +12,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_3f6xm8d066sk.m3u8",
+    "chlink": "https://ssh101.com/securelive/index.php?id=864567",
     "chsite": "https://github.com/ButterflyAquariumStudios/hizenstv",
     "chcategory": "Hizens TV",
     "chsocial": "nosocial",
@@ -21,18 +21,6 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV.png",
     "chid": "1",
     "chdesc": "Hizens TV é o canal oficial da Hizens, com conteúdo variado.",
-    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
-  },
-  {
-    "chlink": "https://booyah.live/standalone/liveplayer/41622449?room_id=41622449",
-    "chsite": "https://github.com/ButterflyAquariumStudios/hizenstv",
-    "chcategory": "Hizens TV",
-    "chsocial": "nosocial",
-    "chyoutube": "https://youtube.com",
-    "chname": "Hizens TV Extra",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV.png",
-    "chid": "953",
-    "chdesc": "Hizens TV Extra é o canal extra oficial da Hizens, com conteúdo variado.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
