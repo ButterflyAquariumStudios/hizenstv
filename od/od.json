@@ -2,13 +2,25 @@
   {
     "odname": "A Pantera Cor de Rosa",
     "odcategory": "Infantil",
-    "odind":"Livre",
-    "odmininfo":"Venha assistir o Show da Pantera Cor-de-Rosa.",
+    "odind": "Livre",
+    "odmininfo": "Venha assistir o Show da Pantera Cor-de-Rosa.",
     "odinfo": "A Pantera Cor-de-Rosa é uma série animada. O personagem Pantera Cor-de-Rosa foi criado para fazer uma introdução ao filme de mesmo nome, mas ficou tão popular que recebeu seu próprio show de TV nomeado de Pink Panther Show.",
     "odseasons": 1,
     "odlink": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/od/pantera.json",
-    "odimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img3/pantera.png",
+    "odimg": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQLbUPZaBPcwzxCSsHrvltGUQq4OFhrN76wlotThhMpbQqleWI",
     "oddist": "Mirisch Films",
     "odlang": "Inglês"
+  },
+  {
+    "odname": "Cine Gibi: O Filme",
+    "odcategory": "Infantil",
+    "odind": "Livre",
+    "odmininfo": "Franjinha inventou um grande liquidificador que engole gibis e passa suas histórias nas telas dos cinemas.",
+    "odinfo": "Franjinha inventou um grande liquidificador que engole gibis e passa suas histórias nas telas dos cinemas.",
+    "odseasons": 1,
+    "odlink": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/od/cinegibi.json",
+    "odimg": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGQDQ4C0rU8Et08vvVXj_po_lnh9CFBKeKAlweY-tzseISNefJ",
+    "oddist": "Maurício de Sousa Produções",
+    "odlang": "Português"
   }
 ]
