@@ -1,15 +1,28 @@
 [
   {
-    "odname": "A Pantera Cor de Rosa",
+    "odname": "Se Liga na Turma da Mônica",
     "odcategory": "Infantil",
     "odind": "Livre",
-    "odmininfo": "Venha assistir o Show da Pantera Cor-de-Rosa.",
-    "odinfo": "A Pantera Cor-de-Rosa é uma série animada. O personagem Pantera Cor-de-Rosa foi criado para fazer uma introdução ao filme de mesmo nome, mas ficou tão popular que recebeu seu próprio show de TV nomeado de Pink Panther Show.",
-    "odseasons": 1,
-    "odlink": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/od/pantera.json",
-    "odimg": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQLbUPZaBPcwzxCSsHrvltGUQq4OFhrN76wlotThhMpbQqleWI",
-    "oddist": "Mirisch Films",
+    "odmininfo": "Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Acompanhe todas as aventuras de Mônica, Cebolinha, Cascão, Magali e do resto da turminha.",
+    "odinfo": "Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Acompanhe todas as aventuras de Mônica, Cebolinha, Cascão, Magali e do resto da turminha.",
+    "odseasons": 0,
+    "odlink": "https://www.youtube.com/embed/LBKvaFuFXWo",
+    "odimg": "https://media.fstatic.com/bJI-MBliVGLGOv5XdZj5vlcuhh0=/290x478/smart/media/movies/covers/2012/05/42db1b1cfa64019b382d335f9df1571c.jpg",
+    "oddist": "Mauricio de Sousa Produções",
+    "odlang": "Português",
+    "odyear": 2011
+  },
+  {
+    "odname": "O Garoto",
+    "odcategory": "Comédia",
+    "odind": "Livre",
+    "odmininfo": "Uma mãe abandona seu filho com um bilhete em uma limusine, mas o carro acaba sendo roubado e a criança é deixada em uma lata de lixo. Um vagabundo encontra o bebê e passa a cuidar dele.",
+    "odinfo": "Uma mãe abandona seu filho com um bilhete em uma limusine, mas o carro acaba sendo roubado e a criança é deixada em uma lata de lixo. Um vagabundo encontra o bebê e passa a cuidar dele.",
+    "odseasons": 0,
+    "odlink": "https://www.youtube.com/embed/LQE0c1Zugx8",
+    "odimg": "https://upload.wikimedia.org/wikipedia/commons/5/59/CC_The_Kid_1921.jpg",
+    "oddist": "Charlie Chaplin Film Corporation",
     "odlang": "Inglês",
-    "odyear":1980
+    "odyear": 1921
   }
 ]
