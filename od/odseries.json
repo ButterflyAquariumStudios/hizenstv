@@ -1,28 +1,15 @@
 [
   {
-    "odname": "Se Liga na Turma da Mônica",
+    "odname": "A Pantera Cor-de-Rosa",
     "odcategory": "Infantil",
     "odind": "Livre",
-    "odmininfo": "Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Acompanhe todas as aventuras de Mônica, Cebolinha, Cascão, Magali e do resto da turminha.",
-    "odinfo": "Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Acompanhe todas as aventuras de Mônica, Cebolinha, Cascão, Magali e do resto da turminha.",
-    "odseasons": 0,
-    "odlink": "https://www.youtube.com/embed/LBKvaFuFXWo",
-    "odimg": "https://media.fstatic.com/bJI-MBliVGLGOv5XdZj5vlcuhh0=/290x478/smart/media/movies/covers/2012/05/42db1b1cfa64019b382d335f9df1571c.jpg",
-    "oddist": "Mauricio de Sousa Produções",
-    "odlang": "Português",
-    "odyear": 2011
-  },
-  {
-    "odname": "O Garoto",
-    "odcategory": "Comédia",
-    "odind": "Livre",
-    "odmininfo": "Uma mãe abandona seu filho com um bilhete em uma limusine, mas o carro acaba sendo roubado e a criança é deixada em uma lata de lixo. Um vagabundo encontra o bebê e passa a cuidar dele.",
-    "odinfo": "Uma mãe abandona seu filho com um bilhete em uma limusine, mas o carro acaba sendo roubado e a criança é deixada em uma lata de lixo. Um vagabundo encontra o bebê e passa a cuidar dele.",
-    "odseasons": 0,
-    "odlink": "https://www.youtube.com/embed/LQE0c1Zugx8",
-    "odimg": "https://upload.wikimedia.org/wikipedia/commons/5/59/CC_The_Kid_1921.jpg",
-    "oddist": "Charlie Chaplin Film Corporation",
+    "odmininfo": "A Pantera Cor-de-Rosa foi um personagem criado para fazer apenas uma introdução ao filme Pantera Cor-de-Rosa, de Blake Edwards. O sucesso foi tão grande que começou a ter uma série animada própria.",
+    "odinfo": "A Pantera Cor-de-Rosa foi um personagem criado para fazer apenas uma introdução ao filme Pantera Cor-de-Rosa, de Blake Edwards. O sucesso foi tão grande que começou a ter uma série animada própria.",
+    "odseasons": 1,
+    "odlink": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/od/pantera.json",
+    "odimg": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQLbUPZaBPcwzxCSsHrvltGUQq4OFhrN76wlotThhMpbQqleWI",
+    "oddist": "Mirisch Films",
     "odlang": "Inglês",
-    "odyear": 1921
+    "odyear": 1969
   }
 ]
