@@ -1,5 +1,18 @@
 [
   {
+    "odname": "Batendo o Ponto - Afonso Padilha",
+    "odcategory": "Stand-Up",
+    "odind": "16+",
+    "odmininfo": "BATENDO O PONTO é um programa que une Stand up Comedy e entrevista com profissionais de diversas áreas. ",
+    "odinfo": "BATENDO O PONTO é um programa que une Stand up Comedy e entrevista com profissionais de diversas áreas. ",
+    "odseasons": 1,
+    "odlink": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/od/batendopontoafs.json",
+    "odimg": "https://i.ytimg.com/vi/_PoDXNoHO4Y/maxresdefault.jpg",
+    "oddist": "Afonso Padilha",
+    "odlang": "Português",
+    "odyear": 2018
+  },
+  {
     "odname": "A Pantera Cor-de-Rosa",
     "odcategory": "Infantil",
     "odind": "Livre",
