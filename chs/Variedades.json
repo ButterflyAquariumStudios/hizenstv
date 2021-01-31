@@ -54,7 +54,7 @@
     "chsocial": "nosocial",
     "chyoutube": "https://youtube.com",
     "chname": "TV Chroma",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/noimage.png",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/tvchroma.png",
     "chid": "54",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
@@ -68,30 +68,6 @@
     "chname": "TV Aracati",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVAracati.png",
     "chid": "55",
-    "chdesc": "Transmissão IPTV.",
-    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8",
-    "chsite": "nosite",
-    "chcategory": "Variedades",
-    "chsocial": "nosocial",
-    "chyoutube": "https://youtube.com",
-    "chname": "TV Água Boa",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVAguaBoa.png",
-    "chid": "56",
-    "chdesc": "Transmissão IPTV.",
-    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8",
-    "chsite": "nosite",
-    "chcategory": "Variedades",
-    "chsocial": "nosocial",
-    "chyoutube": "https://youtube.com",
-    "chname": "TV Natal",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVNatal.png",
-    "chid": "57",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
