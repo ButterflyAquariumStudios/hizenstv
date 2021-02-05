@@ -1,6 +1,6 @@
 [
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://player.twitch.tv/?channel=FailArmy&parent=hizentv",
+    "chlink": "https://player.twitch.tv/?channel=FailArmy&parent=hizentv",
     "chsite": "https://www.failarmy.com/",
     "chcategory": "Comedia",
     "chsocial": "nosocial",
@@ -12,7 +12,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/playlist.m3u8",
     "chsite": "https://www.thepetcollective.com/",
     "chcategory": "Comedia",
     "chsocial": "nosocial",
