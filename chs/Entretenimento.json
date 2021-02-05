@@ -1,6 +1,6 @@
 [
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=animetv.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/animetv.html",
     "chsite": "nosite",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
@@ -24,7 +24,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=vmtv.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/vmtv.html",
     "chsite": "nosite",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
@@ -36,7 +36,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://booyah.live/standalone/liveplayer/34850987?room_id=34659740",
+    "chlink": "https://booyah.live/standalone/liveplayer/34850987?room_id=34659740",
     "chsite": "https://www.youtube.com",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
@@ -48,7 +48,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://playerv.zcast.com.br/video/yeeaah/1/true/false/YzNKMk15NTZZMkZ6ZEM1amIyMHVZbkk9K1o=/16:9/nocover/nao/",
+    "chlink": "https://playerv.zcast.com.br/video/yeeaah/1/true/false/YzNKMk15NTZZMkZ6ZEM1amIyMHVZbkk9K1o=/16:9/nocover/nao/",
     "chsite": "https://www.youtube.com",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
@@ -72,7 +72,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8",
     "chsite": "https://www.youtube.com",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
@@ -84,7 +84,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8",
     "chsite": "https://www.youtube.com",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
@@ -96,7 +96,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8",
     "chsite": "https://www.youtube.com",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
@@ -108,7 +108,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/playlist.m3u8",
     "chsite": "https://www.youtube.com",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
@@ -120,7 +120,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/playlist.m3u8",
     "chsite": "https://www.youtube.com",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
@@ -132,7 +132,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://stmv1.srvif.com/manchetebahia/manchetebahia/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://stmv1.srvif.com/manchetebahia/manchetebahia/playlist.m3u8",
     "chsite": "https://www.youtube.com",
     "chcategory": "Entretenimento",
     "chsocial": "nosocial",
