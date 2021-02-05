@@ -1,6 +1,6 @@
 [
   {
-    "chlink": "https://www.youtube.com/embed/VQRH6xM6T2o",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/VQRH6xM6T2o",
     "chsite": "https://noticias.r7.com/record-news",
     "chcategory": "Noticias",
     "chsocial": "nosocial",
@@ -12,7 +12,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cnn.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=cnn.html",
     "chsite": "nosite",
     "chcategory": "Noticias",
     "chsocial": "nosocial",
@@ -24,7 +24,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/VOw7bts_rGQ",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/VOw7bts_rGQ",
     "chsite": "https://www.youtube.com/user/euronewspt",
     "chcategory": "Noticias",
     "chsocial": "nosocial",
@@ -36,7 +36,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/JbKgQhFlMdU",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/JbKgQhFlMdU",
     "chsite": "https://www.youtube.com/user/euronewspt",
     "chcategory": "Noticias",
     "chsocial": "nosocial",
@@ -48,19 +48,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.gvnews.tv.br/?=embedhizens",
-    "chsite": "https://www.youtube.com/",
-    "chcategory": "Noticias",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "GV News",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/GVNews.png",
-    "chid": "24",
-    "chdesc": "Transmitido IPTV.",
-    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
-  },
-  {
-    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCP391YRAjSOdM_bwievgaZA&controls=0",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/live_stream?channel=UCP391YRAjSOdM_bwievgaZA&controls=0",
     "chsite": "https://www.youtube.com/",
     "chcategory": "Noticias",
     "chsocial": "nosocial",

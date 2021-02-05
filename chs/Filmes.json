@@ -1,6 +1,6 @@
 [
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cinelivre.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=cinelivre.html",
     "chsite": "nosite",
     "chcategory": "Filmes",
     "chsocial": "nosocial",
@@ -12,7 +12,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cinetrianontv.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=cinetrianontv.html",
     "chsite": "nosite",
     "chcategory": "Filmes",
     "chsocial": "nosocial",
@@ -24,7 +24,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/kronostv.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=kronostv.html",
     "chsite": "nosite",
     "chcategory": "Filmes",
     "chsocial": "nosocial",
@@ -36,7 +36,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/vintagetv.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=vintagetv.html",
     "chsite": "nosite",
     "chcategory": "Filmes",
     "chsocial": "nosocial",
@@ -48,7 +48,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/latinasat.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=latinasat.html",
     "chsite": "nosite",
     "chcategory": "Filmes",
     "chsocial": "nosocial",
@@ -72,7 +72,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/pptv.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=pptv.html",
     "chsite": "nosite",
     "chcategory": "Filmes",
     "chsocial": "nosocial",
@@ -84,7 +84,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8",
     "chsite": "nosite",
     "chcategory": "Filmes",
     "chsocial": "nosocial",
@@ -96,7 +96,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/playlist.m3u8",
     "chsite": "nosite",
     "chcategory": "Filmes",
     "chsocial": "nosocial",
@@ -108,7 +108,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8",
     "chsite": "nosite",
     "chcategory": "Filmes",
     "chsocial": "nosocial",

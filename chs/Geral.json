@@ -1,6 +1,6 @@
 [
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/hizens2.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=hizens2.html",
     "chsite": "https://github.com/ButterflyAquariumStudios/hizenstv",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -12,7 +12,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/recordtv.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=recordtv.html",
     "chsite": "https://r7.com",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -24,7 +24,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/ABVQXgr2LW4?controls=0",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/ABVQXgr2LW4?controls=0",
     "chsite": "https://sbt.com.br",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -36,7 +36,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/TQmOErWyRfA?controls=0",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/TQmOErWyRfA?controls=0",
     "chsite": "https://a12.com",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -60,7 +60,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redetv.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=redetv.html",
     "chsite": "nosite",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -84,7 +84,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCsRfBAspa72ExrsN347W2xg&controls=0",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/live_stream?channel=UCsRfBAspa72ExrsN347W2xg&controls=0",
     "chsite": "https://www.youtube.com",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -96,7 +96,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/tvmar.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=tvmar.html",
     "chsite": "https://www.youtube.com",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -108,7 +108,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/live_stream?channel=UC0qlZ5jxxueKNzUERcrllNw&controls=0",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/live_stream?channel=UC0qlZ5jxxueKNzUERcrllNw&controls=0",
     "chsite": "https://www.youtube.com",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -120,7 +120,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCCuYi5AP3gya6C5mdWYS6CQ&controls=0",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/live_stream?channel=UCCuYi5AP3gya6C5mdWYS6CQ&controls=0",
     "chsite": "https://www.youtube.com",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -132,7 +132,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
     "chsite": "https://www.youtube.com",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -144,7 +144,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://srv3.zcast.com.br/tvmaceio/tvmaceio/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://srv3.zcast.com.br/tvmaceio/tvmaceio/playlist.m3u8",
     "chsite": "https://www.youtube.com",
     "chcategory": "Geral",
     "chsocial": "nosocial",
@@ -156,7 +156,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/player.php?ch=https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=player.php?ch=https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8",
     "chsite": "https://www.youtube.com",
     "chcategory": "Geral",
     "chsocial": "nosocial",

@@ -1,0 +1,14 @@
+[
+  {
+    "chlink": "LINK DA TRANSMISSÃO",
+    "chsite": "https://youtube.com",
+    "chcategory": "Categoria",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Nome do canal",
+    "chimg": "LINK DA IMAGEM",
+    "chid": "1200",
+    "chdesc": "Esta é a descrição de exemplo.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/allsportstv.html",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=allsportstv.html",
     "chsite": "nosite",
     "chcategory": "Esportes",
     "chsocial": "nosocial",
@@ -36,7 +36,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCs-6sCz2LJm1PrWQN4ErsPw&controls=0&autoplay=1",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/live_stream?channel=UCs-6sCz2LJm1PrWQN4ErsPw&controls=0&autoplay=1",
     "chsite": "https://www.youtube.com/",
     "chcategory": "Esportes",
     "chsocial": "nosocial",
@@ -48,7 +48,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCv-Nx8pSfG_LxbViMz14RWQ&controls=0&autoplay=1",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/live_stream?channel=UCv-Nx8pSfG_LxbViMz14RWQ&controls=0&autoplay=1",
     "chsite": "https://www.youtube.com/",
     "chcategory": "Esportes",
     "chsocial": "nosocial",
@@ -60,7 +60,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/live_stream?channel=UC3KHYFWeB0WimMBfm3NEahQ&controls=0&autoplay=1",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/live_stream?channel=UC3KHYFWeB0WimMBfm3NEahQ&controls=0&autoplay=1",
     "chsite": "https://www.youtube.com/",
     "chcategory": "Esportes",
     "chsocial": "nosocial",
@@ -72,7 +72,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCOa-WaNwQaoyFHLCDk7qKIw&controls=0&autoplay=1",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/redirect.php?v=0&to=https://www.youtube.com/embed/live_stream?channel=UCOa-WaNwQaoyFHLCDk7qKIw&controls=0&autoplay=1",
     "chsite": "https://www.youtube.com/",
     "chcategory": "Esportes",
     "chsocial": "nosocial",
