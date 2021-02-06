@@ -1,5 +1,44 @@
 [
   {
+    "odname": "Sonic X",
+    "odcategory": "Infantil",
+    "odind": "Livre",
+    "odmininfo": "Sonic tenta salvar Cream e Cheese das garras do Dr. Eggman, que ativou o poder do Controle do Caos fazendo com que ele, Sonic e seus amigos fossem transportados para a Terra. Aqui eles conhecem Christopher Thorndyke e seu avô, Chuck.",
+    "odinfo": "Sonic tenta salvar Cream e Cheese das garras do Dr. Eggman, que ativou o poder do Controle do Caos fazendo com que ele, Sonic e seus amigos fossem transportados para a Terra. Aqui eles conhecem Christopher Thorndyke e seu avô, Chuck.",
+    "odseasons": 1,
+    "odlink": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/od/sonicx.json",
+    "odimg": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBqJKFH-juTzia8JmIsUrF2DRc_nvq1AOLTtNtk8uW14n15B4B",
+    "oddist": "TMS Entertainment",
+    "odlang": "Português",
+    "odyear": 2003
+  },
+  {
+    "odname": "Yu-Gi-Oh! GX",
+    "odcategory": "Infantil",
+    "odind": "Livre",
+    "odmininfo": "Yu-Gi-Oh! GX, intitulado no Japão por Yu-Gi-Oh! Duel Monsters GX, é uma série de anime japonesa spin-off e continuação de Yu-Gi-Oh! Duel Monsters, que é baseada na série de mangá Yu-Gi-Oh! escrita por Kazuki Takahashi.",
+    "odinfo": "Yu-Gi-Oh! GX, intitulado no Japão por Yu-Gi-Oh! Duel Monsters GX, é uma série de anime japonesa spin-off e continuação de Yu-Gi-Oh! Duel Monsters, que é baseada na série de mangá Yu-Gi-Oh! escrita por Kazuki Takahashi.",
+    "odseasons": 1,
+    "odlink": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/od/yugiohgx.json",
+    "odimg": "https://upload.wikimedia.org/wikipedia/pt/c/c9/Yu-Gi-Oh_GX_-_DVD1.jpg",
+    "oddist": "Nihon Ad Systems & Studio Gallop",
+    "odlang": "Português",
+    "odyear": 2004
+  },
+  {
+    "odname": "Kamen Rider: O Cavaleiro Dragão",
+    "odcategory": "Infantil",
+    "odind": "Livre",
+    "odmininfo": "Kamen Rider: Dragon Knight (no Brasil, Kamen Rider: O Cavaleiro Dragão) é uma série americana dos gêneros ação, ficção científica e drama.",
+    "odinfo": "Kamen Rider: Dragon Knight (no Brasil, Kamen Rider: O Cavaleiro Dragão) é uma série americana dos gêneros ação, ficção científica e drama.",
+    "odseasons": 1,
+    "odlink": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/od/kamenriderdragonknight.json",
+    "odimg": "https://upload.wikimedia.org/wikipedia/pt/4/4f/Kamen_Rider_Dragon_Knight_poster.png",
+    "oddist": "Toei Company",
+    "odlang": "Português",
+    "odyear": 2008
+  },
+  {
     "odname": "Super Strikas",
     "odcategory": "Infantil",
     "odind": "Livre",
