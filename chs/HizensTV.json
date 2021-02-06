@@ -8,7 +8,7 @@
     "chname": "Guia de canais",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/guiadecanais.png",
     "chid": "0",
-    "chdesc": "Bem vindo a Hizens TV. Escolha seu canal preferido, ligue o som, e assista o quanto você quiser. Gratuito e sem anúncios irritantes.",
+    "chdesc": "Bem vindo a Hizens TV. Escolha seu canal preferido e assista gratuitamente.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
@@ -21,6 +21,66 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV.png",
     "chid": "1",
     "chdesc": "Hizens TV é o canal oficial da Hizens, com conteúdo variado.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/cinelivre.html",
+    "chsite": "nosite",
+    "chcategory": "Filmes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Hizens Filmes",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensFilmes.png",
+    "chid": "200",
+    "chdesc": "Transmissão oficial do Cine Livre. Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/animetv.html",
+    "chsite": "nosite",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Hizens Anime",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensAnime.png",
+    "chid": "120",
+    "chdesc": "Transmissão original da AnimeTV. Transmissão IPTV.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCqpeJPJ8kmaTCIAFoMSpEqQ&controls=0&autoplay=1",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Documentários",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "SimplySpace",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SimplySpace.png",
+    "chid": "252",
+    "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=FailArmy&parent=hizentv",
+    "chsite": "https://www.failarmy.com/",
+    "chcategory": "Comedia",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "FailArmy",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/FailArmy.png",
+    "chid": "90",
+    "chdesc": "Transmitido direto da Twitch.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/live_stream?channel=UCHbNGUI0CcKEra3FeM4en0A&controls=0&autoplay=1",
+    "chsite": "nosite",
+    "chcategory": "Infantil",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Super Strikas",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SupaStrikas.png",
+    "chid": "129",
+    "chdesc": "Transmissão direta do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

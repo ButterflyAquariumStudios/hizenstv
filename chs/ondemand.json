@@ -26,32 +26,6 @@
     "chlimit": 55
   },
   {
-    "chlink": "https://www.youtube.com/embed/playlist?list=PLT0Smhj8chMUR-kmzOR4wQWnxeuc7JtGB&index=RANDOMIZELOL&autoplay=1",
-    "chsite": "nosite",
-    "chcategory": "Comedia",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "Porta dos Fundos",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/PortaDosFundosOD.png",
-    "chid": "626",
-    "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
-    "chlimit": 55
-  },
-  {
-    "chlink": "https://www.youtube.com/embed/playlist?list=PLH-VPhy_QJLHZnoSJHKMTr77F5A-riH5i&autoplay=1",
-    "chsite": "nosite",
-    "chcategory": "Entretenimento",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "CENTRAL",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CentralOD.png",
-    "chid": "627",
-    "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
-    "chlimit": 55
-  },
-  {
     "chlink": "https://www.youtube.com/embed/playlist?list=PLC7846D1EF7D4B8A2&autoplay=1",
     "chsite": "nosite",
     "chcategory": "Entretenimento",
@@ -100,45 +74,6 @@
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/GolsDaRodadaOD.png",
     "chid": "631",
     "chdesc": "Playlist transmitida direto do YouTube.",
-    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
-    "chlimit": 55
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UC4ncvgh5hFr5O83MH7-jRJg",
-    "chsite": "nosite",
-    "chcategory": "Entretenimento",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "Flow Podcast",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/FlowPodcastOD.png",
-    "chid": "632",
-    "chdesc": "Atualizado do YouTube.",
-    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
-    "chlimit": 55
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UCj9R9rOhl81fhnKxBpwJ-yw",
-    "chsite": "nosite",
-    "chcategory": "Entretenimento",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "Podpah",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/PodpahOD.png",
-    "chid": "633",
-    "chdesc": "Atualizado do YouTube.",
-    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
-    "chlimit": 55
-  },
-  {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UCWZoPPW7u2I4gZfhJBZ6NqQ",
-    "chsite": "nosite",
-    "chcategory": "Entretenimento",
-    "chsocial": "nosocial",
-    "chyoutube": "https://www.youtube.com/",
-    "chname": "Inteligência Ltda.",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/InteligenciaLtdaOD.png",
-    "chid": "634",
-    "chdesc": "Atualizado do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json",
     "chlimit": 55
   },

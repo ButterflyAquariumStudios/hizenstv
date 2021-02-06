@@ -142,5 +142,17 @@
     "chid": "160",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLBv9h8SYk1vwJwdxxT6TsL3vDyLJklo3Z&index=RANDOMIZELOL&autostart=1&repeat=1",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "MrPoladoful Adventures",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/MrPoladofulOD.png",
+    "chid": "161",
+    "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

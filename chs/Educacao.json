@@ -46,5 +46,29 @@
     "chid": "34",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UCteW9b13yFu8Kf8hnt12__A",
+    "chsite": "nosite",
+    "chcategory": "Educação",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Canal Brasil",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/CanalBrasilOD.png",
+    "chid": "35",
+    "chdesc": "Atualizado do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://canaisglobo.globo.com/futura/4500346/",
+    "chsite": "nosite",
+    "chcategory": "Educação",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Futura",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Futura.png",
+    "chid": "36",
+    "chdesc": "Atualizado do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

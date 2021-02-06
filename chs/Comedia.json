@@ -24,15 +24,51 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://www.youtube.com/embed/live_stream?channel=UC9U4nIDyIzzelXrjNQXNvxA&controls=0&autoplay=1",
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UCEWHPFNilsT0IfQfutVzsag",
     "chsite": "https://www.youtube.com/",
     "chcategory": "Comedia",
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
-    "chname": "Pânico Jovem Pan",
-    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Panico.png",
+    "chname": "Porta dos Fundos",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/PortaDosFundosOD.png",
     "chid": "92",
-    "chdesc": "Transmitido direto do YouTube. ",
+    "chdesc": "Atualizado do YouTube. ",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UCddYq41_tZ1FnLlguLT6-Ow",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Comedia",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Parafernalha",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ParafernalhaOD.png",
+    "chid": "93",
+    "chdesc": "Atualizado do YouTube. ",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UC11JFCoslUUMTuAsUPH8RdQ",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Comedia",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Humor Multishow",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HumorMultishowOD.png",
+    "chid": "94",
+    "chdesc": "Atualizado do YouTube. ",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLW3mXBgY1SKVKQ0i_N9YeRScFLoXROtIb&controls=0&autoplay=1",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Comedia",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Pânico na Jovem Pan",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Panico.png",
+    "chid": "95",
+    "chdesc": "Playlist transmitida direto do YouTube. ",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

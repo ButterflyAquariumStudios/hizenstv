@@ -60,6 +60,18 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UCRP5p2RfxJgnKyWgve5pJ-Q",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Documentários",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "History Channel",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HistoryOD.png",
+    "chid": "255",
+    "chdesc": "Atualizado do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
     "chlink": "https://www.youtube.com/embed/live_stream?channel=UCLA_DiR1FfKNvjuUpBHmylQ&controls=0&autoplay=1",
     "chsite": "https://www.youtube.com/",
     "chcategory": "Documentários",
@@ -67,8 +79,32 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "NASA TV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/NASA.png",
-    "chid": "255",
+    "chid": "256",
     "chdesc": "Transmissão direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UCt6iLNEJT6v9VHm9hQ04W6g",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Documentários",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Discovery",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/DiscoveryOD.png",
+    "chid": "257",
+    "chdesc": "Atualizado do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UCFupUY6CNLg5Z7U7u4oEb5w",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Documentários",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "National Geographic",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/NatGeoOD.png",
+    "chid": "258",
+    "chdesc": "Atualizado do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

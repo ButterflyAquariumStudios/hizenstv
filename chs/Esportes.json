@@ -82,5 +82,17 @@
     "chid": "106",
     "chdesc": "FLA TV transmite os jogos do Clube de Regatas Flamengo em dias de jogo (Geralmente sem imagens).\nTransmissões direto do YouTube em horários especificos.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLZuM_Kl1KELnTK1B6AL5bIUW3B1EslR8-&autoplay=1",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Esportes",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "GE: Gols da Rodada (Brasileirão)",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/GolsDaRodadaOD.png",
+    "chid": "107",
+    "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
