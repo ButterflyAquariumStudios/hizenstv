@@ -1,5 +1,70 @@
 [
   {
+    "odname": "A Princesa do Nilo",
+    "odcategory": "Aventura",
+    "odind": "Sem classificação",
+    "odmininfo": "Princess of the Nile é um filme estadunidense de 1954, do gênero aventura histórica, dirigido por Harmon Jones.",
+    "odinfo": "Princess of the Nile é um filme estadunidense de 1954, do gênero aventura histórica, dirigido por Harmon Jones.",
+    "odseasons": 0,
+    "odlink": "https://www.youtube.com/embed/pypnobnskKE",
+    "odimg": "https://i.ytimg.com/vi/06gEwx5SOXc/hqdefault.jpg",
+    "oddist": "Leonard Goldstein",
+    "odlang": "Português",
+    "odyear": 1954
+  },
+  {
+    "odname": "Campeão no Boxe",
+    "odcategory": "Comédia/Mudo",
+    "odind": "Sem classificação",
+    "odmininfo": "The Champion é um filme mudo estadunidense de curta-metragem de 1915, produzido por Jess Robbins para o Estúdios Essanay, e escrito, dirigido e protagonizado por Charles Chaplin. É uma comédia em três atos.",
+    "odinfo": "The Champion é um filme mudo estadunidense de curta-metragem de 1915, produzido por Jess Robbins para o Estúdios Essanay, e escrito, dirigido e protagonizado por Charles Chaplin. É uma comédia em três atos.",
+    "odseasons": 0,
+    "odlink": "https://archive.org/embed/TheChampion",
+    "odimg": "https://media.fstatic.com/zfWP99zCjgF_J9MFFs73TDhipJg=/290x478/smart/media/movies/covers/2011/05/6456f8bb4b87acad930d3b79be28eac3.jpg",
+    "oddist": "Charlie Chaplin",
+    "odlang": "Inglês",
+    "odyear": 1915
+  },
+  {
+    "odname": "Os Lobos",
+    "odcategory": "Drama",
+    "odind": "Sem classificação",
+    "odmininfo": "Os Lobos é um filme português de Rino Lupo, uma longa-metragem de ficção. Rodado todo no exterior na Serra da Estrela foi um sucesso nesse tempo, tendo um difusão internacional. Baseia-se no texto teatral de Francisco Lage e João Corréa d´Oliveira.",
+    "odinfo": "Os Lobos é um filme português de Rino Lupo, uma longa-metragem de ficção. Rodado todo no exterior na Serra da Estrela foi um sucesso nesse tempo, tendo um difusão internacional. Baseia-se no texto teatral de Francisco Lage e João Corréa d´Oliveira.",
+    "odseasons": 0,
+    "odlink": "https://archive.org/embed/silent-os-lobos/Os%20Lobos.mkv",
+    "odimg": "https://m.media-amazon.com/images/M/MV5BMGYyNmU0NjgtYzA1YS00ZjQ5LThkOWUtNjQxYmQ0NGQzNGFkXkEyXkFqcGdeQXVyNDg5MjMyMTM@._V1_.jpg",
+    "oddist": "Ibéria Film",
+    "odlang": "Português",
+    "odyear": 1923
+  },
+  {
+    "odname": "O Gorila",
+    "odcategory": "Comédia/Terror",
+    "odind": "Sem classificação",
+    "odmininfo": "O Gorila é uma comédia de terror americana de 1939 estrelada pelos Ritz Brothers, Anita Louise, Art Miles, Lionel Atwill, Bela Lugosi e Patsy Kelly. Foi baseado na peça de 1925 com o mesmo nome, de Ralph Spence.",
+    "odinfo": "O Gorila é uma comédia de terror americana de 1939 estrelada pelos Ritz Brothers, Anita Louise, Art Miles, Lionel Atwill, Bela Lugosi e Patsy Kelly. Foi baseado na peça de 1925 com o mesmo nome, de Ralph Spence.",
+    "odseasons": 0,
+    "odlink": "https://archive.org/embed/the_gorilla/the_gorilla.mpeg",
+    "odimg": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj49o17HxhCuBkNXOpgOUh-zYUTcdmBiie77S_Hc7Il3bFcfGo",
+    "oddist": "Twentieth Century Fox Film Corp.",
+    "odlang": "Inglês",
+    "odyear": 1939
+  },
+  {
+    "odname": "Quando um Homem É Homem",
+    "odcategory": "Faroeste/Comédia",
+    "odind": "12+",
+    "odmininfo": "O rancheiro rico G.W. McLintock usa o seu poder e influência no território para manter a paz entre agricultores, rancheiros, ladrões de terra, índios e funcionários corruptos do governo.",
+    "odinfo": "O rancheiro rico G.W. McLintock usa o seu poder e influência no território para manter a paz entre agricultores, rancheiros, ladrões de terra, índios e funcionários corruptos do governo.",
+    "odseasons": 0,
+    "odlink": "https://www.youtube.com/embed/wgz6OO0sFmI",
+    "odimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQASvlz0rsuTemNK8bhitdPVmZANAv1btosDKsJ0tXCEtLWifX",
+    "oddist": "Batjac",
+    "odlang": "Português",
+    "odyear": 1963
+  },
+  {
     "odname": "A Noite Dos Mortos Vivos",
     "odcategory": "Drama/Ficção Científica",
     "odind": "12+",
@@ -7,7 +72,7 @@
     "odinfo": "A Noite dos Mortos-Vivos, dirigido por George Romero, é um filme de terror independente de 1968.",
     "odseasons": 0,
     "odlink": "https://www.youtube.com/embed/pv3ewzSEx24",
-    "odimg": "http://br.web.img2.acsta.net/pictures/210/146/21014661_20130621225134112.jpg",
+    "odimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Night_of_the_Living_Dead_%281968%29.webm/330px-seek%3D44-Night_of_the_Living_Dead_%281968%29.webm.jpg",
     "oddist": "Image Films",
     "odlang": "Português",
     "odyear": 1968
@@ -20,7 +85,7 @@
     "odinfo": "Após a Guerra Civil, Cord McNally procura o traidor cuja traição causou a derrota da unidade de McNally e a perda de um amigo íntimo. ",
     "odseasons": 0,
     "odlink": "https://www.youtube.com/embed/A8QnetOM_0c",
-    "odimg": "http://br.web.img3.acsta.net/pictures/210/126/21012654_20130614213435563.jpg",
+    "odimg": "https://images-na.ssl-images-amazon.com/images/I/51E0btMhjpL._AC_SY445_.jpg",
     "oddist": "Paramount Pictures",
     "odlang": "Português",
     "odyear": 1970
