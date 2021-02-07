@@ -1,5 +1,57 @@
 [
   {
+    "odname": "A Noite Dos Mortos Vivos",
+    "odcategory": "Drama/Ficção Científica",
+    "odind": "12+",
+    "odmininfo": "A Noite dos Mortos-Vivos, dirigido por George Romero, é um filme de terror independente de 1968.",
+    "odinfo": "A Noite dos Mortos-Vivos, dirigido por George Romero, é um filme de terror independente de 1968.",
+    "odseasons": 0,
+    "odlink": "https://www.youtube.com/embed/pv3ewzSEx24",
+    "odimg": "http://br.web.img2.acsta.net/pictures/210/146/21014661_20130621225134112.jpg",
+    "oddist": "Image Films",
+    "odlang": "Português",
+    "odyear": 1968
+  },
+  {
+    "odname": "Rio Lobo",
+    "odcategory": "Faroeste/Ação/Aventura",
+    "odind": "12+",
+    "odmininfo": "Após a Guerra Civil, Cord McNally procura o traidor cuja traição causou a derrota da unidade de McNally e a perda de um amigo íntimo. ",
+    "odinfo": "Após a Guerra Civil, Cord McNally procura o traidor cuja traição causou a derrota da unidade de McNally e a perda de um amigo íntimo. ",
+    "odseasons": 0,
+    "odlink": "https://www.youtube.com/embed/A8QnetOM_0c",
+    "odimg": "http://br.web.img3.acsta.net/pictures/210/126/21012654_20130614213435563.jpg",
+    "oddist": "Paramount Pictures",
+    "odlang": "Português",
+    "odyear": 1970
+  },
+  {
+    "odname": "O Covil da Desordem",
+    "odcategory": "Faroeste/Romance",
+    "odind": "Sem classificação",
+    "odmininfo": "Após a Guerra Civil, o confederado Jim Trask retorna a sua terra natal, Abilene, para encontrar seu querido noivo, noivo de seu velho amigo Dave Mosely, que está liderando a disputa dos pecuaristas contra os fazendeiros. ",
+    "odinfo": "Após a Guerra Civil, o confederado Jim Trask retorna a sua terra natal, Abilene, para encontrar seu querido noivo, noivo de seu velho amigo Dave Mosely, que está liderando a disputa dos pecuaristas contra os fazendeiros. ",
+    "odseasons": 0,
+    "odlink": "https://www.youtube.com/embed/IBUIjBnT2ao",
+    "odimg": "https://media.fstatic.com/EIc6Zzof_fbQTFZUny0L4P6rc-Y=/290x478/smart/media/movies/covers/2020/02/images_3.jpg",
+    "oddist": "Universal International",
+    "odlang": "Português",
+    "odyear": 1956
+  },
+  {
+    "odname": "Onde Termina o Inferno",
+    "odcategory": "Faroeste",
+    "odind": "Sem classificação",
+    "odmininfo": "Ramon vinga o assassinato do seu irmão e mata a Família Baxter. ",
+    "odinfo": "Ramon vinga o assassinato do seu irmão e mata a Família Baxter. ",
+    "odseasons": 0,
+    "odlink": "https://www.youtube.com/embed/WjU22Hz5i4g",
+    "odimg": "https://limaomecanico.com.br/wp-content/uploads/2020/07/onde-termina-o-inferno.jpg",
+    "oddist": "Marino Carpano & Magic Films",
+    "odlang": "Português",
+    "odyear": 1966
+  },
+  {
     "odname": "Caçada Humana",
     "odcategory": "Faroeste",
     "odind": "Sem classificação",
