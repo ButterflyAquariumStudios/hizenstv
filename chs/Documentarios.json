@@ -60,7 +60,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UCRP5p2RfxJgnKyWgve5pJ-Q",
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLAr322Yg8UkBWHEEhOy4n6sFyNKtqo9pa&autoplay=1&rel=0&index=RANDOMIZEDAY",
     "chsite": "https://www.youtube.com/",
     "chcategory": "Documentários",
     "chsocial": "nosocial",
@@ -68,7 +68,7 @@
     "chname": "History Channel",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HistoryOD.png",
     "chid": "255",
-    "chdesc": "Atualizado do YouTube.",
+    "chdesc": "VoD • Atualizado do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
@@ -84,7 +84,7 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UCt6iLNEJT6v9VHm9hQ04W6g",
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLQtKWvsWFC-CM8gFmiKddbVsuo0bEgIx-&autoplay=1&rel=0&index=RANDOMIZEDAY",
     "chsite": "https://www.youtube.com/",
     "chcategory": "Documentários",
     "chsocial": "nosocial",
@@ -92,11 +92,11 @@
     "chname": "Discovery",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/DiscoveryOD.png",
     "chid": "257",
-    "chdesc": "Atualizado do YouTube.",
+    "chdesc": "VoD • Atualizado do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://butsoccer.xyz/hizenstv/player/chs/playeryt.php?id=UCFupUY6CNLg5Z7U7u4oEb5w",
+    "chlink": "https://www.youtube.com/embed/playlist?list=PLBv9h8SYk1vwgq_WUzQKfr0BLOl46be7W&autoplay=1&rel=0&index=RANDOMIZEHOUR",
     "chsite": "https://www.youtube.com/",
     "chcategory": "Documentários",
     "chsocial": "nosocial",
@@ -104,7 +104,19 @@
     "chname": "National Geographic",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/NatGeoOD.png",
     "chid": "258",
-    "chdesc": "Atualizado do YouTube.",
+    "chdesc": "VoD • Atualizado do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/playlist?list=PL7g8fN9mNUbpMhb_wJ0inZSXVvU6cC4GG&autoplay=1&rel=0&index=RANDOMIZEDAY",
+    "chsite": "https://www.youtube.com/",
+    "chcategory": "Documentários",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Acredite ou Não",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/AcrediteOuNaoOD.png",
+    "chid": "259",
+    "chdesc": "VoD • Atualizado do YouTube.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]

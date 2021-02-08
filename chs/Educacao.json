@@ -60,15 +60,15 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
-    "chlink": "https://canaisglobo.globo.com/futura/4500346/",
+    "chlink": "https://playerv.transmissaodigital.com/video/ronald6259/2/true/false/VTNSdGRqRXVkSEpoYm5OdGFYTnpZVzlrYVdkcGRHRnNMbU52YlE9PSta/16:9/",
     "chsite": "nosite",
     "chcategory": "Educação",
     "chsocial": "nosocial",
     "chyoutube": "https://www.youtube.com/",
-    "chname": "Futura",
+    "chname": "Futura (Canal FDR)",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Futura.png",
     "chid": "36",
-    "chdesc": "Atualizado do YouTube.",
+    "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
