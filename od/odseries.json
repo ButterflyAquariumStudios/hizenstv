@@ -1,5 +1,18 @@
 [
   {
+    "odname": "Os Backyardigans",
+    "odcategory": "Infantil",
+    "odind": "Livre",
+    "odmininfo": "Cinco animaizinhos coloridos viajam para lugares imaginários e vivem grandes aventuras no quintal de casa. Os episódios apresentam musicais de gêneros diferentes e dança.",
+    "odinfo": "Cinco animaizinhos coloridos viajam para lugares imaginários e vivem grandes aventuras no quintal de casa. Os episódios apresentam musicais de gêneros diferentes e dança.",
+    "odseasons": 2,
+    "odlink": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/od/backyardigans.json",
+    "odimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrkQ6uHRFi15tFy8kUdjwnbsjLsXVZxigT4viNbG33Rj068AC",
+    "oddist": "Nickelodeon",
+    "odlang": "Português",
+    "odyear": 2004
+  },
+  {
     "odname": "Sonic X",
     "odcategory": "Infantil",
     "odind": "Livre",
