@@ -24,6 +24,18 @@
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
   {
+    "chlink": "https://player.twitch.tv/?channel=shel_channel&parent=hizenstv",
+    "chsite": "https://www.twitch.tv/shel_channel",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Shel Channel",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ChelChannel.png",
+    "chid": "151",
+    "chdesc": "Transmitido direto do Twitch.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
     "chlink": "https://butsoccer.xyz/hizenstv/player/chs/vmtv.html",
     "chsite": "nosite",
     "chcategory": "Entretenimento",
@@ -31,7 +43,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "VMTV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/VM.png",
-    "chid": "151",
+    "chid": "152",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
@@ -43,7 +55,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Loading TV",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/LoadingTV.png",
-    "chid": "152",
+    "chid": "153",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
@@ -55,7 +67,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Yeeaah",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/Yeeaah.png",
-    "chid": "153",
+    "chid": "154",
     "chdesc": "Transmissão oficial do site Yeeaah.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
@@ -67,7 +79,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "SBT Games",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SBTGames.png",
-    "chid": "154",
+    "chid": "155",
     "chdesc": "Transmitido direto da Twitch.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
@@ -79,7 +91,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "As Panteras",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/AsPanteras.png",
-    "chid": "155",
+    "chid": "156",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
@@ -91,7 +103,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "A Mulher Biônica",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/MulherBionica.png",
-    "chid": "156",
+    "chid": "157",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
@@ -103,7 +115,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "Star Trek - Jornada nas Estrelas",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/StarTrek.png",
-    "chid": "157",
+    "chid": "158",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
@@ -115,7 +127,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "People are Awesome",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/PeopleAreAwesome.png",
-    "chid": "158",
+    "chid": "159",
     "chdesc": "Transmissão IPTV (PlexTV).",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
@@ -127,7 +139,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "WeatherSpy",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/WeatherSpy.png",
-    "chid": "159",
+    "chid": "160",
     "chdesc": "Transmissão IPTV (PlexTV).",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
@@ -139,7 +151,7 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "TV Manchete Bahia",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVMancheteBahia.png",
-    "chid": "160",
+    "chid": "161",
     "chdesc": "Transmissão IPTV.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   },
@@ -151,8 +163,20 @@
     "chyoutube": "https://www.youtube.com/",
     "chname": "MrPoladoful Adventures",
     "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/MrPoladofulOD.png",
-    "chid": "161",
+    "chid": "162",
     "chdesc": "Playlist transmitida direto do YouTube.",
+    "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=2HomenseMeio&parent=hizenstv",
+    "chsite": "https://www.youtube.com",
+    "chcategory": "Entretenimento",
+    "chsocial": "nosocial",
+    "chyoutube": "https://www.youtube.com/",
+    "chname": "Dois Homens e Meio",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/DoisHomenseMeio.png",
+    "chid": "163",
+    "chdesc": "Transmitido direto da Twitch.",
     "chprogram": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/epg.json"
   }
 ]
