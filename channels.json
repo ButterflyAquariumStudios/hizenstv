@@ -1,1 +1,110 @@
-[{"chlink":"https://player.twitch.tv/?channel=Chel_channel&parent=hizentv.rf.gd","chsite":"","chcategory":"Entretenimento","chsocial":"","chyoutube":"","chname":"Chel Channel","chimg":"https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ChelChannel.png","chid":"254","chdesc":"Chel Channel é um canal de entretenimento, mais conhecido por transmitir séries como Young Sheldon e Big Bang Theory.","chprogram":"noprogramation"},{"chlink":"https://hznsplayer.glitch.me/tvmar.html","chsite":"","chcategory":"Geral","chsocial":"","chyoutube":"","chname":"TV Mar","chimg":"https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVMar.png","chid":"112","chdesc":"TV Mar é um canal de televisão alagoano da Organização Arnon de Mello.","chprogram":"noprogramation"},{"chlink":"https://www.youtube.com/embed/ABVQXgr2LW4?controls=0","chsite":"sbt.com.br","chcategory":"Geral","chsocial":"sbt.com.br","chyoutube":"sbt.com.br","chname":"SBT","chimg":"https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SBT.png","chid":"4","chdesc":"Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.","chprogram":"noprogramation"},{"chlink":"https://www.youtube.com/embed/TQmOErWyRfA?controls=0","chsite":"","chcategory":"Geral","chsocial":"","chyoutube":"","chname":"TV Aparecida","chimg":"https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVAparecida.png","chid":"7","chdesc":"TV Aparecida é uma rede de televisão brasileira de conteúdo religioso e de entretenimento. A TV Aparecida está entre as 14 maiores redes de televisão do Brasil em abrangência, e é a 7ª emissora de TV aberta mais vista em todo o país.","chprogram":"noprogramation"},{"chlink":"https://hznsplayer.glitch.me/recordtv.html","chsite":"","chcategory":"Geral","chsocial":"","chyoutube":"","chname":"Record TV","chimg":"https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RecordTV.png","chid":"3","chdesc":"Record é uma emissora brasileira com canal aberto. ","chprogram":"noprogramation"},{"chlink":"https://about.black/","chsite":"","chcategory":"HizensTV","chsocial":"","chyoutube":"","chname":"Guia de programação","chimg":"hzassets/img/img.png","chid":"1","chdesc":"Bem vindo(a) a Hizens TV. Nosso guia de informação vai mostrar os melhores conteúdos que temos na Hizens TV.","chprogram":"noprogramation"}]
+[
+  {
+    "chlink": "https://player.twitch.tv/?channel=FailArmy&parent=hizentv",
+    "chsite": "",
+    "chcategory": "Comédia",
+    "chsocial": "",
+    "chyoutube": "",
+    "chname": "FailArmy",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/FailArmy.png",
+    "chid": "211",
+    "chdesc": "A FailArmy pertence e é operada pela Jukin Media, uma empresa de mídia digital com sede em Los Angeles que possui escritórios adicionais em Nova York, Londres e Nova Delhi.",
+    "chprogram": "noprogramation"
+  },
+  {
+    "chlink": "https://player.twitch.tv/?channel=Chel_channel&parent=hizentv.rf.gd",
+    "chsite": "",
+    "chcategory": "Entretenimento",
+    "chsocial": "",
+    "chyoutube": "",
+    "chname": "Chel Channel",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/ChelChannel.png",
+    "chid": "254",
+    "chdesc": "Chel Channel é um canal de entretenimento, mais conhecido por transmitir séries como Young Sheldon e Big Bang Theory.",
+    "chprogram": "noprogramation"
+  },
+  {
+    "chlink": "https://hznsplayer.glitch.me/tvmar.html",
+    "chsite": "",
+    "chcategory": "Geral",
+    "chsocial": "",
+    "chyoutube": "",
+    "chname": "TV Mar",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVMar.png",
+    "chid": "112",
+    "chdesc": "TV Mar é um canal de televisão alagoano da Organização Arnon de Mello.",
+    "chprogram": "noprogramation"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/ABVQXgr2LW4?controls=0",
+    "chsite": "sbt.com.br",
+    "chcategory": "Geral",
+    "chsocial": "sbt.com.br",
+    "chyoutube": "sbt.com.br",
+    "chname": "SBT",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/SBT.png",
+    "chid": "4",
+    "chdesc": "Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.",
+    "chprogram": "noprogramation"
+  },
+  {
+    "chlink": "https://www.youtube.com/embed/TQmOErWyRfA?controls=0",
+    "chsite": "",
+    "chcategory": "Geral",
+    "chsocial": "",
+    "chyoutube": "",
+    "chname": "TV Aparecida",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVAparecida.png",
+    "chid": "7",
+    "chdesc": "TV Aparecida é uma rede de televisão brasileira de conteúdo religioso e de entretenimento. A TV Aparecida está entre as 14 maiores redes de televisão do Brasil em abrangência, e é a 7ª emissora de TV aberta mais vista em todo o país.",
+    "chprogram": "noprogramation"
+  },
+  {
+    "chlink": "https://hznsplayer.glitch.me/recordtv.html",
+    "chsite": "",
+    "chcategory": "Geral",
+    "chsocial": "",
+    "chyoutube": "",
+    "chname": "Record TV",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/RecordTV.png",
+    "chid": "3",
+    "chdesc": "Record é uma emissora brasileira com canal aberto. ",
+    "chprogram": "noprogramation"
+  },
+  {
+    "chlink": "https://hznsplayer.glitch.me/hizens2.html",
+    "chsite": "",
+    "chcategory": "Geral",
+    "chsocial": "",
+    "chyoutube": "",
+    "chname": "Hizens Channel",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/HizensTV2.png",
+    "chid": "2",
+    "chdesc": "Hizens Channel é apenas um apelido, o canal é Cine Livre. A Hizens TV não é dona deste canal.",
+    "chprogram": "noprogramation"
+  },
+  {
+    "chlink": "https://www.dailymotion.com/embed/video/k5gtQySjwe85eTwnvD6?autoplay=1&queue-enable=false&muted=false",
+    "chsite": "",
+    "chcategory": "Geral",
+    "chsocial": "",
+    "chyoutube": "",
+    "chname": "TV Cultura",
+    "chimg": "https://raw.githubusercontent.com/ButterflyAquariumStudios/hizenstv/main/img/TVCultura.png",
+    "chid": "14",
+    "chdesc": "TV Cultura é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo.",
+    "chprogram": "noprogramation"
+  },
+  {
+    "chlink": "https://about.black/",
+    "chsite": "",
+    "chcategory": "HizensTV",
+    "chsocial": "",
+    "chyoutube": "",
+    "chname": "Guia de programação",
+    "chimg": "hzassets/img/img.png",
+    "chid": "1",
+    "chdesc": "Bem vindo(a) a Hizens TV. Nosso guia de informação vai mostrar os melhores conteúdos que temos na Hizens TV.",
+    "chprogram": "noprogramation"
+  }
+]
